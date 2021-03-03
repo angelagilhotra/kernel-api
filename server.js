@@ -21,6 +21,7 @@ app.use(bodyParser.json())
 // set port
 const port = process.env.PORT || 3000
 
+// returns token metadata
 app.get('/raw/:tokenId', async(req, res) => {
   const { tokenId } = req.params
   const data = metadata[tokenId]
@@ -28,6 +29,18 @@ app.get('/raw/:tokenId', async(req, res) => {
     ...data
   })
 })
+app.get('/tokens', async(req,res) => {
+  let root = (await tree).getRoot()
+  root = root.toString("hex")
+  let count = Object.keys(metadata).length;
+  res.send({
+    ok: true,
+    root,
+    tokens: metadata,
+    count
+  })
+})
+// returns user's all details & token metadata
 app.get('/hash/:hash', async (req, res, next) => {
   const { hash } = req.params
   try {
