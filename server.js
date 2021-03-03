@@ -136,7 +136,7 @@ app.post('/slack', async(req,res) => {
   // console.log(req.payload)
   // console.log(req.body['payload'])
   let data = [
-    [user.name, user.username, actions[0].selected_option.value]
+    [user.id, user.name, user.username, actions[0].selected_option.value, actions[0].action_ts]
   ]
   console.log ('data:', data);
   console.log ('req',req)
