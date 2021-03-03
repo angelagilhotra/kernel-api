@@ -12,6 +12,7 @@
     "ethereumjs-util": "^5.1.1",
     "express": "^4.17.1",
     "level": "^6.0.1",
+    "node-fetch": "^2.6.1",
     "web3": "^1.3.4"
   }
 }
