@@ -127,8 +127,8 @@ app.post('/update', async (req,res) => {
 
 app.post('/slack', async(req,res) => {
   const { user } = req.body
-  console.log(req.payload)
-  console.log ('received payload',user)
+  // console.log(req.payload)
+  console.log(JSON.parse(req.body['payload'])['response_url'])
   let data = [
     [JSON.stringify(user)],
   ]
