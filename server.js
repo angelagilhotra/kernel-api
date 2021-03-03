@@ -23,6 +23,7 @@ const metadata = require('./gift/metadata.json')
 // initialise app
 const app = express()
 
+app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
 
 // set port
