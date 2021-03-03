@@ -39,7 +39,7 @@ async function generateMetadata () {
     }
     metadata[u.tokenId] = {
       name: u.name,
-      award: '',
+      award: {},
       gratitude,
       image: imgURL + '/' + lines + '/' + noise,
       tokenId: u.tokenId
