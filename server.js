@@ -2,6 +2,13 @@
 const express = require('express')
   , bodyParser = require('body-parser')
 const crypto = require('crypto')
+const fetch = require("node-fetch");
+
+// for slack
+const spreadsheetId = '1ZeyYQ-M46cSELK0Nw7TERH5jdjfnkwqhRfhprMknENI'
+const baseUrl = "https://pushtogsheet.herokuapp.com";
+const query = `valueInputOption=RAW&pizzly_pkey=pope8Qy8qfYyppnHRMgLMpQ8MuEUKDGeyhfGCj`;
+const url = new URL(`/proxy/google-sheets/${spreadsheetId}/values/A1:append?${query}`, baseUrl);
 
 // import data
 const { hashStatus } = require('./codes')
@@ -116,6 +123,22 @@ app.post('/update', async (req,res) => {
     })
   }
   res.send ({})
+})
+
+app.post('/slack', async(req,res) => {
+  const { payload } = req.body
+  console.log ('received payload',payload)
+  let data = [
+    [payload.user.name, payload.user.username, payload.actions[0].selected_option.value, JSON.stringify(payload)],
+  ]
+  fetch(url.href, {
+    method: "POST",
+    body: JSON.stringify({ values: data }),
+    headers: { 'Pizzly-Auth-Id': 'ecc6d9c0-7c43-11eb-bce1-e9a8c89e2868' }
+  })
+  .then((res) => res.text())
+  .then(console.log)
+  .catch(console.error);
 })
 
 app.listen(port, () => {
