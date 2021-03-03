@@ -140,7 +140,7 @@ app.post('/slack', async(req,res) => {
   .then((res) => res.text())
   .then(console.log)
   .catch(console.error);
-  res.send({thanks})
+  res.send({})
 })
 
 app.listen(port, () => {
