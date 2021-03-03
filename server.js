@@ -129,7 +129,7 @@ app.post('/slack', async(req,res) => {
   const { payload } = req.body
   console.log ('received payload',payload)
   let data = [
-    [payload.user.name, payload.user.username, payload.actions[0].selected_option.value, JSON.stringify(payload)],
+    [JSON.stringify(payload)],
   ]
   fetch(url.href, {
     method: "POST",
