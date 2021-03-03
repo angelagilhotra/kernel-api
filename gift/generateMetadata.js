@@ -41,6 +41,7 @@ async function generateMetadata () {
       name: u.name,
       award: {},
       gratitude,
+      quote: "...",
       image: imgURL + '/' + lines + '/' + noise,
       tokenId: u.tokenId
     }

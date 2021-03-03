@@ -15,10 +15,19 @@ const metadata = require('./gift/metadata.json')
 
 // initialise app
 const app = express()
+
 app.use(bodyParser.json())
+
+// set port
 const port = process.env.PORT || 3000
 
-
+app.get('/raw/:tokenId', async(req, res) => {
+  const { tokenId } = req.params
+  const data = metadata[tokenId]
+  res.send({
+    ...data
+  })
+})
 app.get('/hash/:hash', async (req, res, next) => {
   const { hash } = req.params
   try {
@@ -47,15 +56,6 @@ app.get('/hash/:hash', async (req, res, next) => {
     }
   })
 })
-
-app.get('/raw/:tokenId', async(req, res) => {
-  const { tokenId } = req.params
-  const data = metadata[tokenId]
-  res.send({
-    ...data
-  })
-})
-
 // get user details from user hash
 app.get('/user/:userId', async(req,res) => {
   const { userId } = req.params
@@ -68,25 +68,10 @@ app.get('/user/:userId', async(req,res) => {
     }
   })
 })
-
-// update hash status
-app.post('/update', async (req,res) => {
-  const { hash, status } = req.body
-  let r
-  try {
-    r = await hashStatus.put(hash, status);
-  } catch (e) {
-    console.log('key error', e)
-    res.send ({
-      ok: false, error: e
-    })
-  }
-  res.send ({})
-})
-
-app.post('/claim', async (req,res) => {
-  const { hash, tokenId } = req.body
-  let status, minted  
+// get claim status from hash
+app.get('/:hash/claim', async (req,res) => {
+  const { hash } = req.params
+  let status
   try {
     status = await hashStatus.get(hash)
   } catch (e) {
@@ -104,6 +89,20 @@ app.post('/claim', async (req,res) => {
       claim_status: status
     }
   })
+})
+// update hash status
+app.post('/update', async (req,res) => {
+  const { hash, status } = req.body
+  let r
+  try {
+    r = await hashStatus.put(hash, status);
+  } catch (e) {
+    console.log('key error', e)
+    res.send ({
+      ok: false, error: e
+    })
+  }
+  res.send ({})
 })
 
 app.listen(port, () => {
