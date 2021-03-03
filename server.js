@@ -127,21 +127,27 @@ app.post('/update', async (req,res) => {
 })
 
 app.post('/slack', async(req,res) => {
-  const { user } = req.body
+  // const { user } = req.body 
+  const payload = JSON.parse(req.body.payload)
+  const { user, actions } = payload
+  console.log ({
+    user, actions
+  })
   // console.log(req.payload)
-  console.log(req.body['payload'])
+  // console.log(req.body['payload'])
   let data = [
-    [JSON.stringify(user)],
+    [user.name, user.username, actions[0].selected_option.value]
   ]
+  console.log ('data:', data);
   console.log ('req',req)
-  // fetch(url.href, {
-  //   method: "POST",
-  //   body: JSON.stringify({ values: data }),
-  //   headers: { 'Pizzly-Auth-Id': 'ecc6d9c0-7c43-11eb-bce1-e9a8c89e2868' }
-  // })
-  // .then((res) => res.text())
-  // .then(console.log)
-  // .catch(console.error);
+  fetch(url.href, {
+    method: "POST",
+    body: JSON.stringify({ values: data }),
+    headers: { 'Pizzly-Auth-Id': 'ecc6d9c0-7c43-11eb-bce1-e9a8c89e2868' }
+  })
+  .then((res) => res.text())
+  .then(console.log)
+  .catch(console.error);
   res.send({})
 })
 
