@@ -126,10 +126,10 @@ app.post('/update', async (req,res) => {
 })
 
 app.post('/slack', async(req,res) => {
-  const { payload } = req.body
+  const { user } = req.body
   console.log ('received payload',payload)
   let data = [
-    [JSON.stringify(payload)],
+    [JSON.stringify(user)],
   ]
   fetch(url.href, {
     method: "POST",
