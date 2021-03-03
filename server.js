@@ -132,7 +132,7 @@ app.post('/slack', async(req,res) => {
   let data = [
     [JSON.stringify(user)],
   ]
-  console.log (req.body)
+  console.log ('req',req)
   // fetch(url.href, {
   //   method: "POST",
   //   body: JSON.stringify({ values: data }),
