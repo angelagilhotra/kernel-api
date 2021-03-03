@@ -128,7 +128,7 @@ app.post('/update', async (req,res) => {
 app.post('/slack', async(req,res) => {
   const { user } = req.body
   // console.log(req.payload)
-  console.log(JSON.parse(req.body['payload'])['response_url'])
+  console.log(req.body['payload']['response_url'])
   let data = [
     [JSON.stringify(user)],
   ]
@@ -140,7 +140,7 @@ app.post('/slack', async(req,res) => {
   .then((res) => res.text())
   .then(console.log)
   .catch(console.error);
-  res.send({})
+  res.send({'Thanks!'})
 })
 
 app.listen(port, () => {
