@@ -34,6 +34,8 @@ async function generateMetadata () {
       }
       // @todo check and redo this
       noise += (messages[u.user_id].length % 50) * 5
+    } else {
+      gratitude = {}
     }
     metadata[u.tokenId] = {
       name: u.name,
