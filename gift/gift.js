@@ -10,14 +10,14 @@ const crypto = require('crypto')
 const fs = require('fs')
 const token = process.env.SLACK_TOKEN
 const web = new WebClient(token)
-const { MerkleTree } = require('./merkle')
+const { MerkleTree } = require('./helpers/merkle')
 const CHANNEL = {
   "name": "gratitude",
   "id": "C0178GGS4TB"
 }
 const PATH = {
-  'users': __dirname + '/users.json',
-  'data': __dirname + '/messages.json'
+  'users': __dirname + '/data/users.json',
+  'data': __dirname + '/data/messages.json'
 }
 
 function getRequiredDetails(msg) {

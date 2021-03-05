@@ -12,14 +12,14 @@ const query = `valueInputOption=RAW&pizzly_pkey=pope8Qy8qfYyppnHRMgLMpQ8MuEUKDGe
 const url = new URL(`/proxy/google-sheets/${spreadsheetId}/values/A1:append?${query}`, baseUrl);
 
 // import data
-const { hashStatus } = require('./codes')
+const { hashStatus } = require('./scripts/codes')
 const { 
   users, 
   userIdToNames, 
   hashToUserDetails, 
-  hashes } = require('./gift/users.json')
-const { tree } = require('./tree')
-const metadata = require('./gift/metadata.json')
+  hashes } = require('./gift/data/users.json')
+const { tree } = require('./scripts/tree')
+const metadata = require('./gift/data/metadata.json')
 
 // initialise app
 const app = express()

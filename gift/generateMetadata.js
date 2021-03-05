@@ -3,8 +3,8 @@ const {
   userIdToNames, 
   hashToUserDetails, 
   hashes
-} = require('./users.json')
-const messages = require('./messages.json')
+} = require('./data/users.json')
+const messages = require('./data/messages.json')
 const fs = require('fs')
 const imgURL='https://testing-gift-api.herokuapp.com/i'
 const minLines = 20
@@ -46,7 +46,7 @@ async function generateMetadata () {
       tokenId: u.tokenId
     }
   }
-  store(metadata, __dirname + '/metadata.json')
+  store(metadata, __dirname + '/data/metadata.json')
 }
 
 generateMetadata()

@@ -1,6 +1,6 @@
 // setup db with codes 
 const level = require('level')
-const { users } = require('./gift/users.json')
+const { users } = require('../gift/data/users.json')
 const HashesStatusDB = level('db')
 
 for (user of users) {
