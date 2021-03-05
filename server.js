@@ -1,6 +1,7 @@
 // import libraries
 const express = require('express')
   , bodyParser = require('body-parser')
+  , cors = require('cors')
 const crypto = require('crypto')
 const fetch = require("node-fetch");
 
@@ -25,6 +26,7 @@ const app = express()
 
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
+app.use(cors())
 
 // set port
 const port = process.env.PORT || 3000
@@ -126,6 +128,7 @@ app.post('/update', async (req,res) => {
   res.send ({})
 })
 
+// for slack app
 app.post('/slack', async(req,res) => {
   // const { user } = req.body 
   const payload = JSON.parse(req.body.payload)
