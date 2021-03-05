@@ -27,6 +27,7 @@ const app = express()
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
 app.use(cors())
+app.set('view engine', 'ejs');
 
 // set port
 const port = process.env.PORT || 3000
@@ -113,6 +114,15 @@ app.get('/:hash/claim', async (req,res) => {
     }
   })
 })
+
+// generative image
+app.get('/i/:name', function(req, res) {
+  const { name } = req.params;
+  res.render('pages/index', {
+      name
+  });
+});
+
 // update hash status
 app.post('/update', async (req,res) => {
   const { hash, status } = req.body
