@@ -24,8 +24,8 @@ async function store(json, path) {
 async function generateMetadata () {
   for (u of users) {
     let gratitude
-    let noise = minNoise
-    let lines = minLines
+    // let noise = minNoise
+    // let lines = minLines
 
     if (messages[u.user_id]) {
       gratitude = {
@@ -33,7 +33,7 @@ async function generateMetadata () {
         count: messages[u.user_id].length
       }
       // @todo check and redo this
-      noise += (messages[u.user_id].length % 50) * 5
+      // noise += (messages[u.user_id].length % 50) * 5
     } else {
       gratitude = {}
     }
@@ -42,7 +42,7 @@ async function generateMetadata () {
       award: {},
       gratitude,
       quote: "...",
-      image: imgURL + '/' + lines + '/' + noise,
+      image: imgURL + '/' + encodeURI(u.name),
       tokenId: u.tokenId
     }
   }
