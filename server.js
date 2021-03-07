@@ -138,18 +138,11 @@ app.post('/update', async (req,res) => {
 
 // for slack app
 app.post('/slack', async(req,res) => {
-  // const { user } = req.body 
   const payload = JSON.parse(req.body.payload)
   const { user, actions } = payload
   console.log ({
     user, actions
   })
-  // console.log(req.payload)
-  // console.log(req.body['payload'])
-  let data = [
-    [user.id, user.name, actions[0].selected_option.value, actions[0].action_ts]
-  ]
-
   base('Table 1').create([
     {
       "fields": {
@@ -162,14 +155,14 @@ app.post('/slack', async(req,res) => {
   ], function(err, records) {
     if (err) {
       console.error(err);
+      res.send({'error': err});
       return;
     }
     records.forEach(function (record) {
       console.log(record.getId());
     });
   });
-
-  
+  res.send({'ok':true})
 })
 
 app.listen(port, () => {
