@@ -6,10 +6,8 @@ const crypto = require('crypto')
 const fetch = require("node-fetch");
 
 // for slack
-const spreadsheetId = '1ZeyYQ-M46cSELK0Nw7TERH5jdjfnkwqhRfhprMknENI'
-const baseUrl = "https://pushtogsheet.herokuapp.com";
-const query = `valueInputOption=RAW&pizzly_pkey=pope8Qy8qfYyppnHRMgLMpQ8MuEUKDGeyhfGCj`;
-const url = new URL(`/proxy/google-sheets/${spreadsheetId}/values/A1:append?${query}`, baseUrl);
+const airtable = require("airtable");
+const base = new Airtable({apiKey: 'keyikLX5gMBzRzgbC'}).base('appykKj45Eb2Ql8jU');
 
 // import data
 const { hashStatus } = require('./scripts/codes')
@@ -149,19 +147,29 @@ app.post('/slack', async(req,res) => {
   // console.log(req.payload)
   // console.log(req.body['payload'])
   let data = [
-    [user.id, user.name, user.username, actions[0].selected_option.value, actions[0].action_ts]
+    [user.id, user.name, actions[0].selected_option.value, actions[0].action_ts]
   ]
-  // console.log ('data:', data);
-  // console.log ('req',req)
-  fetch(url.href, {
-    method: "POST",
-    body: JSON.stringify({ values: data }),
-    headers: { 'Pizzly-Auth-Id': 'ecc6d9c0-7c43-11eb-bce1-e9a8c89e2868' }
-  })
-  .then((res) => res.text())
-  .then(console.log)
-  .catch(console.error);
-  res.send({})
+
+  base('Table 1').create([
+    {
+      "fields": {
+        "userid": data[0],
+        "user": data[1],
+        "reaction": data[2],
+        "timestamp": data[3]
+      }
+    }
+  ], function(err, records) {
+    if (err) {
+      console.error(err);
+      return;
+    }
+    records.forEach(function (record) {
+      console.log(record.getId());
+    });
+  });
+
+  
 })
 
 app.listen(port, () => {
