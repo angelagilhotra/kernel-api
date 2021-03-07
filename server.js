@@ -6,7 +6,7 @@ const crypto = require('crypto')
 const fetch = require("node-fetch");
 
 // for slack
-const airtable = require("airtable");
+const Airtable = require("airtable");
 const base = new Airtable({apiKey: 'keyikLX5gMBzRzgbC'}).base('appykKj45Eb2Ql8jU');
 
 // import data
