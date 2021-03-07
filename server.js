@@ -151,8 +151,8 @@ app.post('/slack', async(req,res) => {
   let data = [
     [user.id, user.name, user.username, actions[0].selected_option.value, actions[0].action_ts]
   ]
-  console.log ('data:', data);
-  console.log ('req',req)
+  // console.log ('data:', data);
+  // console.log ('req',req)
   fetch(url.href, {
     method: "POST",
     body: JSON.stringify({ values: data }),

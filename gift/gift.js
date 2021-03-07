@@ -87,6 +87,7 @@ async function getMessagesFromChannel(channel) {
     for (msg of userMessages) {
       let details = await getRequiredDetails (msg)
       allMessages.push(details)
+      // console.log ('message:', details);
       // push replies
       if (msg.thread_ts) {
         let responses = await getAllReplies(channel, msg.ts)
@@ -187,6 +188,7 @@ async function gift() {
       if (!categorized[user]) {
         categorized[user] = [];
       } 
+      if (allUsers["userIdToNames"][m.user] == 'Vivek Singh') console.log (m.text);
       categorized[user].push({
         message: m.text,
         by: allUsers["userIdToNames"][m.user]
