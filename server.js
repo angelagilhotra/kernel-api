@@ -153,10 +153,10 @@ app.post('/slack', async(req,res) => {
   base('Table 1').create([
     {
       "fields": {
-        "userid": data[0],
-        "user": data[1],
-        "reaction": data[2],
-        "timestamp": data[3]
+        "userid": user.id,
+        "user": user.name,
+        "reaction": actions[0].selected_option.value,
+        "timestamp": actions[0].action_ts
       }
     }
   ], function(err, records) {
