@@ -121,21 +121,6 @@ app.get('/i/:name', function(req, res) {
   });
 });
 
-// update hash status
-app.post('/update', async (req,res) => {
-  const { hash, status } = req.body
-  let r
-  try {
-    r = await hashStatus.put(hash, status);
-  } catch (e) {
-    console.log('key error', e)
-    res.send ({
-      ok: false, error: e
-    })
-  }
-  res.send ({})
-})
-
 // for slack app
 app.post('/slack', async(req,res) => {
   const payload = JSON.parse(req.body.payload)
@@ -143,12 +128,12 @@ app.post('/slack', async(req,res) => {
   console.log ({
     user, actions
   })
-  base('Table 1').create([
+  base('Table 2').create([
     {
       "fields": {
         "userid": user.id,
         "user": user.name,
-        "reaction": actions[0].selected_option.value,
+        "response": actions[0].selected_option.value,
         "timestamp": actions[0].action_ts
       }
     }
