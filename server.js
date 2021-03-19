@@ -128,12 +128,12 @@ app.post('/slack', async(req,res) => {
   console.log ({
     user, actions
   })
-  base('Table 2').create([
+  base('Table 1').create([
     {
       "fields": {
         "userid": user.id,
         "user": user.name,
-        "response": actions[0].selected_option.value,
+        "reaction": actions[0].selected_option.value,
         "timestamp": actions[0].action_ts
       }
     }
