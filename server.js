@@ -3,11 +3,15 @@ const express = require('express')
   , bodyParser = require('body-parser')
   , cors = require('cors')
 const crypto = require('crypto')
-const fetch = require("node-fetch");
+const { googleKeys, airtable } = require('./credentials.json')
+
 
 // for slack
 const Airtable = require("airtable");
-const base = new Airtable({apiKey: 'keyikLX5gMBzRzgbC'}).base('appykKj45Eb2Ql8jU');
+const base = new Airtable({apiKey: airtable.apiKey}).base(airtable.base);
+
+// for bubble
+const {google} = require('googleapis')
 
 // import data
 const { hashStatus } = require('./scripts/codes')
@@ -24,9 +28,7 @@ const app = express()
 
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json())
-// app.use(express.json())
 app.use(cors())
-app.set('view engine', 'ejs');
 
 // set port
 const port = process.env.PORT || 3000
@@ -114,14 +116,6 @@ app.get('/:hash/claim', async (req,res) => {
   })
 })
 
-// generative image
-app.get('/i/:name', function(req, res) {
-  const { name } = req.params;
-  res.render('pages/index', {
-      name
-  });
-});
-
 // for slack app -- getting basic NPS
 app.post('/slack', async(req,res) => {
   const payload = JSON.parse(req.body.payload)
@@ -129,7 +123,7 @@ app.post('/slack', async(req,res) => {
   console.log ({
     user, actions
   })
-  base('Table 1').create([
+  base('NPS').create([
     {
       "fields": {
         "userid": user.id,
@@ -152,23 +146,13 @@ app.post('/slack', async(req,res) => {
 })
 
 /**
- * test api
+ * test api for bubble
  */
 app.post('/bubble', async(req,res) => {
   // let t = req.body
   console.log('from bubble', req.body);
   res.send({'ok':true})
 })
-
-/**
- * POST to create a new event in a shared google calendar
- * create a new event with details
- * add proposer as event owner/invite proposer as guest 
- */ 
-
-/**
- * POST to add attendee to the shared google calendar event
- */
 
 app.listen(port, () => {
   console.log(`app listening at http://localhost:${port}`)
