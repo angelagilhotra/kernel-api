@@ -122,7 +122,7 @@ app.get('/i/:name', function(req, res) {
   });
 });
 
-// for slack app
+// for slack app -- getting basic NPS
 app.post('/slack', async(req,res) => {
   const payload = JSON.parse(req.body.payload)
   const { user, actions } = payload
@@ -151,15 +151,24 @@ app.post('/slack', async(req,res) => {
   res.send({'ok':true})
 })
 
+/**
+ * test api
+ */
 app.post('/bubble', async(req,res) => {
   // let t = req.body
   console.log('from bubble', req.body);
   res.send({'ok':true})
 })
 
-// POST to create a new event in a shared google calendar
+/**
+ * POST to create a new event in a shared google calendar
+ * create a new event with details
+ * add proposer as event owner/invite proposer as guest 
+ */ 
 
-// POST to add attendee to the shared google calendar
+/**
+ * POST to add attendee to the shared google calendar event
+ */
 
 app.listen(port, () => {
   console.log(`app listening at http://localhost:${port}`)
