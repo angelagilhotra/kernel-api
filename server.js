@@ -152,8 +152,8 @@ app.post('/slack', async(req,res) => {
 })
 
 app.post('/bubble', async(req,res) => {
-  let t = req.body
-  console.log('from bubble', t);
+  // let t = req.body
+  console.log('from bubble', req.body);
   res.send({'ok':true})
 })
 
