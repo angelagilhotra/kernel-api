@@ -22,8 +22,9 @@ const metadata = require('./gift/data/metadata.json')
 // initialise app
 const app = express()
 
-app.use(bodyParser.urlencoded({extended: true}))
-app.use(bodyParser.json())
+// app.use(bodyParser.urlencoded({extended: true}))
+// app.use(bodyParser.json())
+app.use(express.json())
 app.use(cors())
 app.set('view engine', 'ejs');
 
@@ -155,6 +156,10 @@ app.post('/bubble', async(req,res) => {
   console.log('from bubble', t);
   res.send({'ok':true})
 })
+
+// POST to create a new event in a shared google calendar
+
+// POST to add attendee to the shared google calendar
 
 app.listen(port, () => {
   console.log(`app listening at http://localhost:${port}`)
