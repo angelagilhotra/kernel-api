@@ -150,6 +150,12 @@ app.post('/slack', async(req,res) => {
   res.send({'ok':true})
 })
 
+app.post('/bubble', async(req,res) => {
+  let t = JSON.parse(req.body)
+  console.log('from bubble', t);
+  res.send({'ok':true})
+})
+
 app.listen(port, () => {
   console.log(`app listening at http://localhost:${port}`)
 })
