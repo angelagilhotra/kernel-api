@@ -154,6 +154,12 @@ app.post('/bubble', async(req,res) => {
   res.send({'ok':true})
 })
 
+app.post('/createEvent', async(req,res) => {
+  console.log ('will now create a new event');
+  console.log('from bubble', req.body);
+  res.send({'ok': true})
+})
+
 app.listen(port, () => {
   console.log(`app listening at http://localhost:${port}`)
 })
