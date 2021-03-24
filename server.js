@@ -3,6 +3,7 @@ const express = require('express')
   , bodyParser = require('body-parser')
   , cors = require('cors')
 const crypto = require('crypto')
+const FormData = require('form-data');
 const axios = require('axios').default
 const { googleKeys, airtable } = require('./credentials.json')
 
@@ -185,7 +186,7 @@ app.post('/createEvent', async(req,res) => {
   // call calendarX api to create a new event
   const r = await axios.post('https://www.calendarx.com/api/v1/calendars/events/create/', data)
   console.log (r)
-  
+
   res.send({'ok': true})
 })
 
