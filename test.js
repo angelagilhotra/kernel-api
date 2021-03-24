@@ -1,3 +1,4 @@
-const date = 'Mar 25, 2021 6:00 PM GMT'
+const date = 'Mar 25, 2021 6:30 PM GMT'
 const p = new Date(date)
-console.log (p )
+console.log (p.toLocaleDateString('en-US'))
+console.log (p.getUTCHours() + ':' + p.getUTCMinutes())

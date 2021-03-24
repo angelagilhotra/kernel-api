@@ -169,11 +169,22 @@ app.post('/createEvent', async(req,res) => {
     slug
   } = req.body
   
-  const parsed_date_time = new Date(date_time + ' GMT');
+  const p = new Date(date_time + ' GMT')
+  const parsed_date_time = p.toLocaleDateString('en-US') + ' ' + p.getUTCHours() + ':' + p.getUTCMinutes()
+
   const _description = description + '\n\norganizer:' + organizer + '\n\nevent page: https://kb3-juntos.bubbleapps.io/version-test/event_page/'+slug+'\n\n';
 
   const urlParams = 
-  'token=' + 'api1596136832JQFeMLgszSiaZ9NdO0T592473' + '&calendar_id=' + '1616487337329865' + '&title=' + title + '&description=' + _description + '&location=' + location + '&organizer=' + organizer + '&organizer_email=' + organizer_email + '&reminder=' + '20' + '&start_date=' + parsed_date_time + '&end_date=' +parsed_date_time + 60*60000;
+  'token=' + 'api1596136832JQFeMLgszSiaZ9NdO0T592473' 
+  + '&calendar_id=' + '1616487337329865' 
+  + '&title=' + title 
+  + '&description=' + _description 
+  + '&location=' + location 
+  + '&organizer=' + organizer 
+  + '&organizer_email=' + organizer_email 
+  + '&reminder=' + '20' 
+  + '&start_date=' + parsed_date_time 
+  + '&end_date=' +parsed_date_time + 60*60000;
 
   // call calendarX api to create a new event
   const r = await axios.post('https://www.calendarx.com/api/v1/calendars/events/create/?' + urlParams)
