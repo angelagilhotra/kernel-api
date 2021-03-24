@@ -187,7 +187,8 @@ app.post('/createEvent', async(req,res) => {
   + '&organizer_email=' + organizer_email 
   + '&reminder=' + '20' 
   + '&start_date=' + parsed_date_time 
-  + '&end_date=' +parsed_date_time + 60*60000;
+  + '&end_date=' +parsed_date_time + 60*60000
+  + '&color_id=' + '3';
 
   // call calendarX api to create a new event
   const r = await axios.post('https://www.calendarx.com/api/v1/calendars/events/create/?' + urlParams)
