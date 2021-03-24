@@ -175,7 +175,7 @@ app.post('/createEvent', async(req,res) => {
 
   console.log ('parsed date time',parsed_date_time)
 
-  const _description = description + '\n\norganizer:' + organizer + '\n\n[event page](https://kb3-juntos.bubbleapps.io/version-test/event_page/'+slug+')\n\n';
+  const _description = description + '\n\norganizer:' + organizer + '\n\nEvent Page: https://kb3-juntos.bubbleapps.io/version-test/event_page/'+slug+'\n\n';
 
   const urlParams = 
   'token=' + 'api1596136832JQFeMLgszSiaZ9NdO0T592473' 
