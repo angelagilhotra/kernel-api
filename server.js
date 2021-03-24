@@ -158,6 +158,7 @@ app.post('/bubble', async(req,res) => {
 app.post('/createEvent', async(req,res) => {
   console.log('will now create a new event');
   console.log('from bubble', req.body);
+  console.log ('date time from bubble', req.body.date_time)
   const { 
     title, 
     description, 
