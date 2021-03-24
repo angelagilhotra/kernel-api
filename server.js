@@ -3,7 +3,6 @@ const express = require('express')
   , bodyParser = require('body-parser')
   , cors = require('cors')
 const crypto = require('crypto')
-const FormData = require('form-data');
 const axios = require('axios').default
 const { googleKeys, airtable } = require('./credentials.json')
 
@@ -169,22 +168,23 @@ app.post('/createEvent', async(req,res) => {
     organizer,
     slug
   } = req.body
-  var data = new FormData();
+  
   const parsed_date_time = new Date(date_time + ' GMT');
-  const _description = description + '\n\norganizer:' + organizer + '\n\nevent page: https://kb3-juntos.bubbleapps.io/version-test/event_page/'+slug+'\n\n'
-  data.append('token', 'api1596136832JQFeMLgszSiaZ9NdO0T592473');
-  data.append('calendar_id','1616487337329865');
-  data.append('title',title);
-  data.append('description', _description);
-  data.append('location', location);
-  data.append('organizer', organizer);
-  data.append('organizer_email', organizer_email);
-  data.append('reminder', '20');
-  data.append('start_date', parsed_date_time);
-  data.append('end_date', parsed_date_time + 60*60000);
+  const _description = description + '\n\norganizer:' + organizer + '\n\nevent page: https://kb3-juntos.bubbleapps.io/version-test/event_page/'+slug+'\n\n';
 
   // call calendarX api to create a new event
-  const r = await axios.post('https://www.calendarx.com/api/v1/calendars/events/create/', data)
+  const r = await axios.post('https://www.calendarx.com/api/v1/calendars/events/create/', {
+    'token': 'api1596136832JQFeMLgszSiaZ9NdO0T592473',
+    'calendar_id': '1616487337329865',
+    'title': title,
+    'description': _description, 
+    'location': location,
+    'organizer': organizer,
+    'organizer_email': organizer_email,
+    'reminder': '20',
+    'start_date': parsed_date_time,
+    'end_date': parsed_date_time + 60*60000
+  })
   console.log (r)
 
   res.send({'ok': true})
