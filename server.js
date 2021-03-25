@@ -193,7 +193,7 @@ app.post('/createEvent', async(req,res) => {
   // call calendarX api to create a new event
   const r = await axios.post('https://www.calendarx.com/api/v1/calendars/events/create/?' + urlParams)
   
-  // console.log (r)
+  console.log (r)
 
   res.send({'ok': true})
 })
