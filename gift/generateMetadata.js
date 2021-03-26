@@ -6,7 +6,7 @@ const {
 } = require('./data/users.json')
 const messages = require('./data/messages.json')
 const fs = require('fs')
-const imgURL='https://testing-gift-1234.herokuapp.com/'
+const imgURL='https://testing-gift-1234.herokuapp.com'
 
 
 let metadata = {}
