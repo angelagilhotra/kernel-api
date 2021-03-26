@@ -188,7 +188,7 @@ async function gift() {
       if (!categorized[user]) {
         categorized[user] = [];
       } 
-      if (allUsers["userIdToNames"][m.user] == 'Vivek Singh') console.log (m.text);
+      // if (allUsers["userIdToNames"][m.user] == 'Vivek Singh') console.log (m.text);
       categorized[user].push({
         message: m.text,
         by: allUsers["userIdToNames"][m.user]
