@@ -31,12 +31,13 @@ async function generateMetadata () {
       gratitude = {}
     }
     metadata[u.tokenId] = {
+      tokenId: u.tokenId,
       name: u.name,
-      award: {},
+      award: "",
+      quote: "",
       gratitude,
-      quote: "...",
       image: imgURL + '/' + encodeURI(u.name),
-      tokenId: u.tokenId
+      
     }
   }
   store(metadata, __dirname + '/data/metadata.json')
