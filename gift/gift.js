@@ -21,21 +21,12 @@ const PATH = {
 }
 
 function getRequiredDetails(msg) {
-  let block, mentioned_users = []
-  if (msg.blocks) {
-    block = msg.blocks
-    let innerElements
-    block.forEach((obj) => {
-      for (element in obj.elements) {
-        innerElements = obj.elements[element].elements
-      }
-    })
-
-    if (innerElements) {
-      let mentioned_users_filter = innerElements.filter((el) => el.type == 'user')
-      for (user in mentioned_users_filter) {
-        mentioned_users.push(mentioned_users_filter[user].user_id)
-      }
+  let n = msg.text
+  const matches = n.matchAll('\<([^>]*)\>')
+  let mentioned_users = []
+  for (const match of matches) {
+    if (match[1].substring(1)[0] == "U") {
+      mentioned_users.push(match[1].substring(1))
     }
   }
   let totalReactions = 0
@@ -82,13 +73,10 @@ async function getMessagesFromChannel(channel) {
         channel, cursor
       })
     } catch (e) { console.log ('error:', e) }
-
     let userMessages = r.messages.filter((message) => !(message.bot_id))
     for (msg of userMessages) {
       let details = await getRequiredDetails (msg)
       allMessages.push(details)
-      // console.log ('message:', details);
-      // push replies
       if (msg.thread_ts) {
         let responses = await getAllReplies(channel, msg.ts)
         for (response in responses) {
@@ -97,7 +85,6 @@ async function getMessagesFromChannel(channel) {
         }
       }
     }
-
     cursor = r.response_metadata.next_cursor
   } while (r.response_metadata.next_cursor)
   return allMessages;
@@ -110,8 +97,9 @@ async function store(json, path) {
     console.error(err)
   }
 }
+
 let tokenIds= []
-// fetch all users
+// fetch all users, generate hashes and token ids
 async function users() {
   let r, cursor = '', users = []
   do {
@@ -180,7 +168,7 @@ async function gift() {
 
   console.log ('fetching all messages from ', CHANNEL.name);
   let messages = await getMessagesFromChannel(CHANNEL.id);
-
+  
   let categorized = {}  
   console.log ('categorizing messages');
   messages.forEach((m) => {
@@ -189,8 +177,15 @@ async function gift() {
         categorized[user] = [];
       } 
       // if (allUsers["userIdToNames"][m.user] == 'Vivek Singh') console.log (m.text);
+      let _m = m.text;
+      const matches = _m.matchAll('\<([^>]*)\>')
+      for (const match of matches) {
+        let id = match[1].substring(1)
+        let name = allUsers["userIdToNames"][id]
+        _m = _m.replace(match[0], name)
+      }
       categorized[user].push({
-        message: m.text,
+        message: _m,
         by: allUsers["userIdToNames"][m.user]
       })
     }
