@@ -181,8 +181,10 @@ async function gift() {
       const matches = _m.matchAll('\<([^>]*)\>')
       for (const match of matches) {
         let id = match[1].substring(1)
-        let name = allUsers["userIdToNames"][id]
-        _m = _m.replace(match[0], name)
+        if (allUsers["userIdToNames"][id]) {
+          let name = allUsers["userIdToNames"][id]
+          _m = _m.replace(match[0], name)
+        }
       }
       categorized[user].push({
         message: _m,
