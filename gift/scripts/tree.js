@@ -1,5 +1,5 @@
-const { MerkleTree } = require('../gift/helpers/merkle')
-const { hashes } = require('../gift/data/users.json')
+const { MerkleTree } = require('../helpers/merkle')
+const { hashes } = require('../data/users.json')
 
 async function merkle (hashes) {
   let hashesBuffer = []
