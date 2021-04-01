@@ -19,14 +19,14 @@ module.exports = {
   networks: {
     hardhat: {
     },
-    goerli: {
-      url: "https://goerli.infura.io/v3/f3ffe28620114fd2bd00c5a3ebe55558",
-      accounts: [_pk]
-    },
-    xdai: {
-      url: "https://xdai.poanetwork.dev",
-      accounts: [_pk]
-    }
+    // goerli: {
+    //   url: "https://goerli.infura.io/v3/f3ffe28620114fd2bd00c5a3ebe55558",
+    //   accounts: [_pk]
+    // },
+    // xdai: {
+    //   url: "https://xdai.poanetwork.dev",
+    //   accounts: [_pk]
+    // }
   },
   solidity: "0.8.0",
 };
