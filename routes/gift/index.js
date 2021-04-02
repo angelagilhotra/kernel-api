@@ -28,14 +28,6 @@ routes.get('/user/:userId', async(req,res) => {
 // returns user's all details & token metadata
 routes.get('/hash/:hash', async (req, res, next) => {
   const { hash } = req.params
-  try {
-    s = await hashStatus.get(hash)
-  } catch (e) {
-    console.log('key error', e)
-    res.send ({
-      ok: false, error: e
-    })
-  }
 
   d = await hashToUserDetails[hash]
   _p = (await tree).getProof(Buffer.from(hash, "hex"))
@@ -46,7 +38,6 @@ routes.get('/hash/:hash', async (req, res, next) => {
   
   res.send ({
     ok: true, data: {
-      claim_status: s, 
       details: d, 
       tokenId: d["token"], 
       metadata: metadata[d["token"]],
