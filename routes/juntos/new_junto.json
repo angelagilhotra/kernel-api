@@ -24,7 +24,7 @@
 					"type": "button",
 					"text": {
 						"type": "plain_text",
-						"text": "RSVP",
+						"text": "Read more and RSVP",
 						"emoji": true
 					},
 					"value": "click_me_123",

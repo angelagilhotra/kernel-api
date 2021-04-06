@@ -6,7 +6,7 @@ const {
 } = require('./data/users.json')
 const messages = require('./data/messages.json')
 const fs = require('fs')
-const imgURL='https://testing-gift-1234.herokuapp.com'
+// const imgURL='https://testing-gift-1234.herokuapp.com'
 
 
 let metadata = {}
@@ -33,10 +33,10 @@ async function generateMetadata () {
     metadata[u.tokenId] = {
       tokenId: u.tokenId,
       name: u.name,
-      award: "",
-      quote: "",
-      gratitude,
-      image: imgURL + '/' + encodeURI(u.name),
+      award: u.award,
+      note: u.notes,
+      gratitude
+      // image: imgURL + '/' + encodeURI(u.name),
       
     }
   }

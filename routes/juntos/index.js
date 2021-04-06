@@ -7,7 +7,7 @@ const web = new WebClient(token)
 const { airtable } = require('../../credentials.json')
 const Airtable = require("airtable");
 const base = new Airtable({apiKey: airtable.apiKey}).base(airtable.base);
-const base_rsvp_url = "http://ab9f61801f67.ngrok.io/juntos"
+const base_rsvp_url = "https://3e554b6cf9e4.ngrok.io/"
 
 /**
  * Create a new junto
@@ -20,7 +20,7 @@ routes.post('/new', async (req, res) => {
     'event_details', 
     'event_id', 
     'record_id'])
-  const rsvp_url = base_rsvp_url + "/rsvp/" + data.event_id + "/" + data.record_id
+  const rsvp_url = base_rsvp_url + "/rsvp/" + data.record_id
 
   let message_blocks = JSON.stringify(blocks)
   message_blocks = message_blocks
@@ -50,15 +50,15 @@ routes.post('/new', async (req, res) => {
  * RSVP to a junto
  * updates airtable "attendees" field
  */
-routes.get('/rsvp/:eventId/:recordId', async (req, res) => {
-  // @todo 
+// routes.get('/rsvp/:eventId/:recordId', async (req, res) => {
+//   // @todo 
 
-  /**
-   * Display a web page with all the details of the event => details fetched using recordId from airtable
-   * an option to rsvp - enter email => updates "attendees" field in airtable
-   * 
-   */
-})
+//   /**
+//    * Display a web page with all the details of the event => details fetched using recordId from airtable
+//    * an option to rsvp - enter email => updates "attendees" field in airtable
+//    * 
+//    */
+// })
 
 /**
  * Receives POST req from slack app button action
