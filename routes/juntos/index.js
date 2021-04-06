@@ -7,7 +7,7 @@ const web = new WebClient(token)
 const { airtable } = require('../../credentials.json')
 const Airtable = require("airtable");
 const base = new Airtable({apiKey: airtable.apiKey}).base(airtable.base);
-const base_rsvp_url = "https://3e554b6cf9e4.ngrok.io/"
+const base_rsvp_url = "https://jubilant-system.vercel.app"
 
 /**
  * Create a new junto
