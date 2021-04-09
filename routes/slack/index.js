@@ -1,7 +1,7 @@
 const routes = require('express').Router();
-const { airtable } = require('../../credentials.json')
+// const { airtable } = require('../../credentials.json')
 const Airtable = require("airtable");
-const base = new Airtable({apiKey: airtable.apiKey}).base(airtable.base);
+const base = new Airtable({apiKey: process.env.AIRTABLE_API_KEY}).base(process.env.AIRTABLE_BASE_KEY);
 
 routes.post('/', async(req,res) => {
   const payload = JSON.parse(req.body.payload)

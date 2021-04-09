@@ -4,9 +4,9 @@ const _ = require('lodash')
 const { WebClient } = require('@slack/web-api')
 const token = process.env.SLACK_BOT_TOKEN
 const web = new WebClient(token)
-const { airtable } = require('../../credentials.json')
+// const { airtable } = require('../../credentials.json')
 const Airtable = require("airtable");
-const base = new Airtable({apiKey: airtable.apiKey}).base(airtable.base);
+const base = new Airtable({apiKey: process.env.AIRTABLE_API_KEY}).base(process.env.AIRTABLE_BASE_KEY);
 const base_rsvp_url = "https://jubilant-system.vercel.app"
 
 /**
