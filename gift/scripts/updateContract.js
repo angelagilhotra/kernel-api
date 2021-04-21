@@ -16,8 +16,10 @@ const customHttpProvider = new ethers.providers.JsonRpcProvider(rpc);
 const wallet = new ethers.Wallet(pk,customHttpProvider);
 const GiftContract = new ethers.Contract(address,abi,wallet);
 
+const uri = "https://testing-gift-api.herokuapp.com/gift"
+
 async function main() {
-  console.log ('updating contract')
+  console.log ('---updating contract---')
   console.log ('updating merkle root')
   let root = (await tree).getRoot()
   root = root.toString("hex")
@@ -25,7 +27,11 @@ async function main() {
   // update merkle root on contract
   let r = await GiftContract.setMerkleRoot(_root)
   console.log (r)
-  // add code to update metadata url
+  console.log ('updating token uri')
+  // update token uri link
+  let t = await GiftContract.setTokenUri(uri)
+  console.log (r)
+  console.log ('done✨')
 }
 
 main ()
