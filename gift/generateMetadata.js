@@ -2,8 +2,8 @@ const { users } = require('./data/users.json')
 const messages = require('./data/messages.json')
 const awards = require('./data/awards.json')
 const fs = require('fs')
-// const imgURL='https://testing-gift-1234.herokuapp.com'
-
+const self = "http://api.kernel.community"
+const frontend = "https://gratitude.kernel.community/c"
 let metadata = {}
 
 async function store(json, path) {
@@ -29,11 +29,14 @@ async function generateMetadata () {
     }
     metadata[u.tokenId] = {
       tokenId: u.tokenId,
+      image: self + '/' + u.tokenId + '.png',
+      external_url: frontend + '/' + u.hash,
       name: u.name,
-      award,
-      testimonial,
-      gratitude
-      // image: imgURL + '/' + encodeURI(u.name),
+      attributes: {
+        award,
+        testimonial,
+        gratitude,
+      }
     }
   }
   store(metadata, __dirname + '/data/metadata.json')

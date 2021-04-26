@@ -16,7 +16,7 @@ const customHttpProvider = new ethers.providers.JsonRpcProvider(rpc);
 const wallet = new ethers.Wallet(pk,customHttpProvider);
 const GiftContract = new ethers.Contract(address,abi,wallet);
 
-const uri = "https://testing-gift-api.herokuapp.com/gift"
+const uri = "http://api.kernel.community/gift/raw/"
 
 async function main() {
   console.log ('---updating contract---')

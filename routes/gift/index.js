@@ -1,16 +1,54 @@
 const routes = require('express').Router();
 const crypto = require('crypto')
+const base64Img = require('base64-img')
 const { tree } = require('../../gift/scripts/tree')
 const { 
   users, 
   userIdToNames, 
   hashToUserDetails, 
   hashes } = require('../../gift/data/users.json')
-const metadata = require('../../gift/data/metadata.json')
+const metadata = require('../../gift/data/metadata.json');
+const fs = require('fs')
+const path = require('path')
 
 routes.get('/', (req, res) => {
   res.status(200).json({ message: 'Connected to gift!' });
 });
+
+// upload nft image
+routes.post('/upload', async(req, res) => {
+  const { image, hash } = req.body;
+  // console.log ('image: ', image);
+  // console.log ('hash: ', hash);
+  const dir = "gift/images"
+  const token = hashToUserDetails[hash]["token"]
+  const filename = token + '.png'
+  const _path = path.join(__dirname, '..', '..', dir, filename.toString())
+  // check if exists
+  const exists = await fs.existsSync(_path)
+  if (exists) {
+    res.status(200).json({
+      ok: true,
+      exists: true,
+      filename
+    })
+  }
+  else {
+    base64Img.img(
+      image, 
+      dir,
+      token, function (err, filepath) {
+        if (err) {
+          console.log(err)
+        }
+        res.status(200).json({
+          ok: true,
+          exists: false,
+          filename
+        })
+      })
+  }
+})
 
 // get user details from user hash
 routes.get('/user/:userId', async(req,res) => {

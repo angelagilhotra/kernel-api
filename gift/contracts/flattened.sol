@@ -30,8 +30,6 @@ interface IERC165 {
 
 // File @openzeppelin/contracts/token/ERC721/IERC721.sol@v4.0.0
 
-pragma solidity ^0.8.0;
-
 /**
  * @dev Required interface of an ERC721 compliant contract.
  */
@@ -159,9 +157,6 @@ interface IERC721 is IERC165 {
 
 // File @openzeppelin/contracts/token/ERC721/IERC721Receiver.sol@v4.0.0
 
-
-pragma solidity ^0.8.0;
-
 /**
  * @title ERC721 token receiver interface
  * @dev Interface for any contract that wants to support safeTransfers
@@ -182,9 +177,6 @@ interface IERC721Receiver {
 
 
 // File @openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol@v4.0.0
-
-
-pragma solidity ^0.8.0;
 
 /**
  * @title ERC-721 Non-Fungible Token Standard, optional metadata extension
@@ -210,9 +202,6 @@ interface IERC721Metadata is IERC721 {
 
 
 // File @openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol@v4.0.0
-
-
-pragma solidity ^0.8.0;
 
 /**
  * @title ERC-721 Non-Fungible Token Standard, optional enumeration extension
@@ -240,9 +229,6 @@ interface IERC721Enumerable is IERC721 {
 
 
 // File @openzeppelin/contracts/utils/Address.sol@v4.0.0
-
-
-pragma solidity ^0.8.0;
 
 /**
  * @dev Collection of functions related to the address type
@@ -434,8 +420,6 @@ library Address {
 // File @openzeppelin/contracts/utils/Context.sol@v4.0.0
 
 
-pragma solidity ^0.8.0;
-
 /*
  * @dev Provides information about the current execution context, including the
  * sender of the transaction and its data. While these are generally available
@@ -460,8 +444,6 @@ abstract contract Context {
 
 // File @openzeppelin/contracts/utils/Strings.sol@v4.0.0
 
-
-pragma solidity ^0.8.0;
 
 /**
  * @dev String operations.
@@ -531,8 +513,6 @@ library Strings {
 // File @openzeppelin/contracts/utils/introspection/ERC165.sol@v4.0.0
 
 
-pragma solidity ^0.8.0;
-
 /**
  * @dev Implementation of the {IERC165} interface.
  *
@@ -559,8 +539,6 @@ abstract contract ERC165 is IERC165 {
 
 // File @openzeppelin/contracts/token/ERC721/ERC721.sol@v4.0.0
 
-
-pragma solidity ^0.8.0;
 
 
 
@@ -938,8 +916,6 @@ contract ERC721 is Context, ERC165, IERC721, IERC721Metadata {
 // File @openzeppelin/contracts/access/Ownable.sol@v4.0.0
 
 
-pragma solidity ^0.8.0;
-
 /**
  * @dev Contract module which provides a basic access control mechanism, where
  * there is an account (an owner) that can be granted exclusive access to
@@ -1006,9 +982,6 @@ abstract contract Ownable is Context {
 
 
 // File contracts/KERNELGift.sol
-
-pragma solidity 0.8.0;
-
 
 contract KERNELGift is ERC721, Ownable {
     constructor(string memory name, string memory symbol) ERC721(name, symbol) { }

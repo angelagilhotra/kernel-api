@@ -18,5 +18,12 @@ module.exports = {
     txHashLink: "https://goerli.etherscan.io/tx/<transaction>",
     addressLink: "https://goerli.etherscan.io/address/<address>"
   },
-  active: "goerli"
+  rinkeby: {
+    address: "0xE23756d18C24Fd5ec125D52b798A2B9Dd5094A75",
+    rpc: "https://rinkeby.infura.io/v3/" + infura_key,
+    chainId: 4,
+    txHashLink: "https://rinkeby.etherscan.io/tx/<transaction>",
+    addressLink: "https://rinkeby.etherscan.io/address/<address>"
+  },
+  active: "rinkeby"
 };

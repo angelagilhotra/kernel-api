@@ -2,6 +2,7 @@ require("@nomiclabs/hardhat-waffle");
 const _pk = process.env.ADMIN_PK;
 const key = process.env.INFURA_KEY;
 const infura_goerli_url = "https://goerli.infura.io/v3/" + key
+const infura_rinkeby_url = "https://rinkeby.infura.io/v3/" + key
 
 task("accounts", "Prints the list of accounts", async () => {
   const accounts = await ethers.getSigners();
@@ -18,6 +19,10 @@ module.exports = {
       url: infura_goerli_url,
       accounts: [_pk]
     },
+    rinkeby: {
+      url: infura_rinkeby_url,
+      accounts: [_pk]
+    }
     // xdai: {
     //   url: "https://xdai.poanetwork.dev",
     //   accounts: [_pk]
