@@ -32,11 +32,19 @@ async function generateMetadata () {
       image: self + '/' + u.tokenId + '.png',
       external_url: frontend + '/' + u.hash,
       name: u.name,
-      attributes: {
-        award,
-        testimonial,
-        gratitude,
-      }
+      award,
+      testimonial,
+      gratitude,
+      attributes: [
+        {
+          "trait_type": "award",
+          "value": award
+        },
+        {
+          "trait_type": "testimonial",
+          "value": testimonial
+        }
+      ]
     }
   }
   store(metadata, __dirname + '/data/metadata.json')
