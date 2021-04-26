@@ -43,6 +43,11 @@ async function generateMetadata () {
         {
           "trait_type": "testimonial",
           "value": testimonial
+        },
+        {
+          "display_type": "number", 
+          "trait_type": "Gratitude Count", 
+          "value": gratitude["received"] ? gratitude["count"] : 0
         }
       ]
     }
