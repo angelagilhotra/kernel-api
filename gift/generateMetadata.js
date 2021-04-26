@@ -2,7 +2,7 @@ const { users } = require('./data/users.json')
 const messages = require('./data/messages.json')
 const awards = require('./data/awards.json')
 const fs = require('fs')
-const self = "http://api.kernel.community"
+const self = "https://testing-gift-api.herokuapp.com"
 const frontend = "https://gratitude.kernel.community/c"
 let metadata = {}
 
