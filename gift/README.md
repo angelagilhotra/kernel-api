@@ -14,7 +14,7 @@
 2. `cd gift/contracts`
 3. `npx hardhat compile`
 4. add network config to `hardhat.config.js`
-5. `npx hardhat run --network <network> scripts/sample-script.js`
+5. `npx hardhat run --network <network> scripts/deploy.js`
 6. copy contract address and paste in `gift/scripts/contract.js`
 8. to flatten `npx hardhat flatten > flattened.sol`
 7. cd to root of directory

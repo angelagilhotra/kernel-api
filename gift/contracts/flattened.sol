@@ -30,6 +30,10 @@ interface IERC165 {
 
 // File @openzeppelin/contracts/token/ERC721/IERC721.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
+
 /**
  * @dev Required interface of an ERC721 compliant contract.
  */
@@ -157,6 +161,10 @@ interface IERC721 is IERC165 {
 
 // File @openzeppelin/contracts/token/ERC721/IERC721Receiver.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
+
 /**
  * @title ERC721 token receiver interface
  * @dev Interface for any contract that wants to support safeTransfers
@@ -177,6 +185,10 @@ interface IERC721Receiver {
 
 
 // File @openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol@v4.0.0
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /**
  * @title ERC-721 Non-Fungible Token Standard, optional metadata extension
@@ -202,6 +214,10 @@ interface IERC721Metadata is IERC721 {
 
 
 // File @openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol@v4.0.0
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /**
  * @title ERC-721 Non-Fungible Token Standard, optional enumeration extension
@@ -229,6 +245,10 @@ interface IERC721Enumerable is IERC721 {
 
 
 // File @openzeppelin/contracts/utils/Address.sol@v4.0.0
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /**
  * @dev Collection of functions related to the address type
@@ -419,6 +439,9 @@ library Address {
 
 // File @openzeppelin/contracts/utils/Context.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /*
  * @dev Provides information about the current execution context, including the
@@ -444,6 +467,9 @@ abstract contract Context {
 
 // File @openzeppelin/contracts/utils/Strings.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /**
  * @dev String operations.
@@ -512,6 +538,9 @@ library Strings {
 
 // File @openzeppelin/contracts/utils/introspection/ERC165.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /**
  * @dev Implementation of the {IERC165} interface.
@@ -539,6 +568,9 @@ abstract contract ERC165 is IERC165 {
 
 // File @openzeppelin/contracts/token/ERC721/ERC721.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 
 
@@ -915,6 +947,9 @@ contract ERC721 is Context, ERC165, IERC721, IERC721Metadata {
 
 // File @openzeppelin/contracts/access/Ownable.sol@v4.0.0
 
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.0;
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
@@ -983,6 +1018,10 @@ abstract contract Ownable is Context {
 
 // File contracts/KERNELGift.sol
 
+// SPDX-License-Identifier: UNLICENSED 
+pragma solidity 0.8.3;
+
+
 contract KERNELGift is ERC721, Ownable {
     constructor(string memory name, string memory symbol) ERC721(name, symbol) { }
     
@@ -1027,7 +1066,6 @@ contract KERNELGift is ERC721, Ownable {
       }
     
     function _baseURI() internal view virtual override returns (string memory) {
-        // return "https://gift.kernel.community/raw/";
         return tokenUri;
     }
 
