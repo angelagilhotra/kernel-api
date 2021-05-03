@@ -2,8 +2,11 @@ const { users } = require('./data/users.json')
 const messages = require('./data/messages.json')
 const awards = require('./data/awards.json')
 const fs = require('fs')
-const self = "https://testing-gift-api.herokuapp.com"
-const frontend = "https://gratitude.kernel.community/c"
+const config = require('./config')
+const { env } = config
+
+const self = config[env]["server"]
+const frontend = config[env]["frontend"] + "/c"
 let metadata = {}
 
 async function store(json, path) {
