@@ -109,12 +109,12 @@ async function gift() {
         categorized[user] = [];
       } 
       let _m = m.text;
-      const matches = _m.matchAll('\<([^>]*)\>')
-      for (const match of matches) {
+      const matches_usernames = _m.matchAll('\<([^>]*)\>')
+      for (const match of matches_usernames) {
         let id = match[1].substring(1)
         if (allUsers["userIdToNames"][id]) {
           let name = allUsers["userIdToNames"][id]
-          _m = _m.replace(match[0], name)
+          _m = _m.replace(match[0], "@" + name)
         }
       }
       if (user == m.user) continue;
