@@ -48,7 +48,6 @@ contract KERNELGift is ERC721, Ownable {
       }
     
     function _baseURI() internal view virtual override returns (string memory) {
-        // return "https://gift.kernel.community/raw/";
         return tokenUri;
     }
 

@@ -11,15 +11,14 @@
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
-				},
-				{ "message": "Nazzareno Massari has joined the channel", "by": "Nazzareno Massari" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"70852734459282580": {
@@ -43,11 +42,11 @@
 		"name": "Marvin",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Marvin has joined the channel", "by": "Marvin" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"32049627622669520": {
@@ -79,14 +78,11 @@
 		"name": "Scott Herren",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Scott Herren has joined the channel", "by": "Scott Herren" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"221713413896676": {
@@ -96,14 +92,11 @@
 		"name": "Jacek Serafinski",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Jacek Serafinski has joined the channel", "by": "Jacek Serafinski" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"7000428012047140": {
@@ -115,18 +108,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Mark Muskardin has joined the channel", "by": "Mark Muskardin" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"25851430740215940": {
@@ -141,15 +133,14 @@
 				{
 					"message": "This was great! Thanks to Vivek Singh and Sachin Mittal for putting this on. Was great working with amazing teams and meeting awesome people, such as ry Rasikh Morani val Martinet Lee Benjamin Stanley Sajida Zouarhi Ganesh Swami Hudson Jameson!",
 					"by": "Mike De'Shazer"
-				},
-				{ "message": "val has joined the channel", "by": "val" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"36316988078185000": {
@@ -159,11 +150,11 @@
 		"name": "Jan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Jan has joined the channel", "by": "Jan" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"52205610068835544": {
@@ -173,14 +164,11 @@
 		"name": "Oscar Fonseca",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Oscar Fonseca has joined the channel", "by": "Oscar Fonseca" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"24990966114974010": {
@@ -190,11 +178,11 @@
 		"name": "Belsy",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Belsy has joined the channel", "by": "Belsy" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"52167522817743980": {
@@ -204,14 +192,11 @@
 		"name": "Aliya Donn",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Aliya Donn has joined the channel", "by": "Aliya Donn" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"2160656843331589": {
@@ -221,14 +206,11 @@
 		"name": "Viraz Malhotra",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Viraz Malhotra has joined the channel", "by": "Viraz Malhotra" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"47049431206769890": {
@@ -238,14 +220,11 @@
 		"name": "Guilherme Guimaraes",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Guilherme Guimaraes has joined the channel", "by": "Guilherme Guimaraes" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"42469390016615430": {
@@ -255,17 +234,14 @@
 		"name": "Roshan Raghupathy",
 		"award": "",
 		"testimonial": "A reminder that you are a unique seed with a unique gift to give. What is it? Thank you for your trust. ",
-		"gratitude": {
-			"received": [{ "message": "Roshan Raghupathy has joined the channel", "by": "Roshan Raghupathy" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "A reminder that you are a unique seed with a unique gift to give. What is it? Thank you for your trust. "
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"32304543092030030": {
@@ -333,11 +309,11 @@
 		"name": "Vitor Py",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Vitor Py has joined the channel", "by": "Vitor Py" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"11746186014143836": {
@@ -352,10 +328,9 @@
 				{
 					"message": "Hello Kernel family! Really should have done this before now, but sure it's for the best! Special thanks to Vivek Singh Sachin Mittal for creating this programme, words can tell how happy I am for participating in the programme. Thanks for Harsh Rajat Richa Jo-Ann A. Hamilton for the direct support, advice and contribution to make Kernel worthwhile. Big hug to Katongole Allan for becoming a team mate and helping build and grow Web3Bridge and much more big thanks to Marek Laskowski our midway demo day mentor turning Advisor! With his support, we have since we met him have a lot of speed and looking out for the big news. For everyone who we have interacted with, supported us and gave a very great review Simona Pop Eman Herawy Sonia John Andrew Redden Maged M. Eljazzar Manuel Gonzalez Alzuru Bernardo, really can't keep tagging everyone! Big ups and we should all catch up soon",
 					"by": "Awosika Ayodeji"
-				},
-				{ "message": "Sonia John has joined the channel", "by": "Sonia John" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
@@ -363,7 +338,7 @@
 				"trait_type": "testimonial",
 				"value": "To Sonia -- an incredible human! Thank you for sharing your spirit with us in Genesis Block and beyond. "
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"56083277776111620": {
@@ -373,11 +348,11 @@
 		"name": "Amir",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Amir has joined the channel", "by": "Amir" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"4539561362171990": {
@@ -392,15 +367,14 @@
 				{
 					"message": "Hello Kernel family! Really should have done this before now, but sure it's for the best! Special thanks to Vivek Singh Sachin Mittal for creating this programme, words can tell how happy I am for participating in the programme. Thanks for Harsh Rajat Richa Jo-Ann A. Hamilton for the direct support, advice and contribution to make Kernel worthwhile. Big hug to Katongole Allan for becoming a team mate and helping build and grow Web3Bridge and much more big thanks to Marek Laskowski our midway demo day mentor turning Advisor! With his support, we have since we met him have a lot of speed and looking out for the big news. For everyone who we have interacted with, supported us and gave a very great review Simona Pop Eman Herawy Sonia John Andrew Redden Maged M. Eljazzar Manuel Gonzalez Alzuru Bernardo, really can't keep tagging everyone! Big ups and we should all catch up soon",
 					"by": "Awosika Ayodeji"
-				},
-				{ "message": "Bernardo has joined the channel", "by": "Bernardo" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"54054700321808780": {
@@ -410,11 +384,11 @@
 		"name": "Jouko",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Jouko has joined the channel", "by": "Jouko" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"44520618221868870": {
@@ -472,10 +446,9 @@
 					"message": "Thankful to every single one of you. Happy to have found my soul family. Until now I felt out of place in life.\n\nThank you Vivek Singh  for inviting me to kernel on that ocean presentation day. And thank you for constantly uplifting me exactly when I need it the most. Thank you for writing to Alex\n\nThank you Sachin Mittal for your convos with me and for your support and trust\n\nThank you cryptowanderer for being the most special and unique soul I’ve ever met :heart:\n\nThank you Alex Masmej  for being so extraordinary and finding the time to meet. I want more ;)))\n\nThank you Octavian Todirut for the sick Kernel swag design\n\nThank you Kevin Owocki  for GitCoin. I’d be stuck in miserable finance world without you\n\nThank you Simona Pop for helping me with the designs organisation\n\nThank you Veronica Coutts for your help with my bonding curve. Please DM me I’ll send you some NAZ :)\n\nThank you Wildcards team, and especially Jason for the tip about front running resistance\n\nThank you Manank Patni  for your sweet Figma design\n\nThank you wschwab for great convos and being the first one to clap to my primitives ;)\n\nThank you EVERYONE. I deeply love and appreciate you all. If at any point I can be of any service to you. Summon me ;) twitter: @AlgorithmicBot. Telegram: nazariyv\n\nAnd most importantly, thank you The V (Vitalik Buterin, right?), without you, none of us would be here. You should be a role model for everyone. If I can be of any service to you at all, I’d be overwhelmed with joy to help. Lots of love everyone. You will all succeed and make this world much much better!",
 					"by": "Nazariy Vavryk"
 				},
-				{ "message": "You're welcome wschwab, glad the talk was helpful!", "by": "Paul Gadi" },
-				{ "message": "wschwab has joined the channel", "by": "wschwab" }
+				{ "message": "You're welcome wschwab, glad the talk was helpful!", "by": "Paul Gadi" }
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{
@@ -486,7 +459,7 @@
 				"trait_type": "testimonial",
 				"value": "Shalom William. Thank you for the commitment you have shown and the clarity you have brought with you into KERNEL. So much of what we do will benefit from your presence, and we look forward to many more deep explorations of truth with you."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"22073087632427176": {
@@ -630,19 +603,14 @@
 				{
 					"message": "Thank you to Sachin Mittal Vivek Singh, @andy (Andy) and team for this fellowship opportunity. This kind of virtual event was my first time, i really enjoyed the conversations and table talks, it was amazing experience. I am looking forward to it and learn :pray: :smiley::innocent:.",
 					"by": "Akanksha Bhattachan"
-				},
-				{
-					"message": "Sachin Mittal set the channel description: Express your gratitude for fellows",
-					"by": "Sachin Mittal"
-				},
-				{ "message": "Sachin Mittal has joined the channel", "by": "Sachin Mittal" }
+				}
 			],
-			"count": 29
+			"count": 27
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 29 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 27 }
 		]
 	},
 	"27709435066256560": {
@@ -778,15 +746,14 @@
 				{
 					"message": "Thank you to Sachin Mittal Vivek Singh, @andy (Andy) and team for this fellowship opportunity. This kind of virtual event was my first time, i really enjoyed the conversations and table talks, it was amazing experience. I am looking forward to it and learn :pray: :smiley::innocent:.",
 					"by": "Akanksha Bhattachan"
-				},
-				{ "message": "Vivek Singh has joined the channel", "by": "Vivek Singh" }
+				}
 			],
-			"count": 33
+			"count": 32
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 33 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 32 }
 		]
 	},
 	"53651360062368180": {
@@ -796,17 +763,14 @@
 		"name": "Niran Babalola",
 		"award": "",
 		"testimonial": "Niran - Thank you for your explorations of a more civic cyberspace and for joining us in the KERNEL journey. It is a boon to us all. ",
-		"gratitude": {
-			"received": [{ "message": "Niran Babalola has joined the channel", "by": "Niran Babalola" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "Niran - Thank you for your explorations of a more civic cyberspace and for joining us in the KERNEL journey. It is a boon to us all. "
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"35689432707146000": {
@@ -816,11 +780,11 @@
 		"name": "Luka",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Luka has joined the channel", "by": "Luka" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"4116946458999827": {
@@ -835,15 +799,14 @@
 				{
 					"message": "This was great! Thanks to Vivek Singh and Sachin Mittal for putting this on. Was great working with amazing teams and meeting awesome people, such as ry Rasikh Morani val Martinet Lee Benjamin Stanley Sajida Zouarhi Ganesh Swami Hudson Jameson!",
 					"by": "Mike De'Shazer"
-				},
-				{ "message": "Benjamin Stanley has joined the channel", "by": "Benjamin Stanley" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"65023945803192080": {
@@ -853,14 +816,11 @@
 		"name": "Nielsen Caruncho",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Nielsen Caruncho has joined the channel", "by": "Nielsen Caruncho" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"15386424276818496": {
@@ -870,17 +830,14 @@
 		"name": "Shivam Singh",
 		"award": "",
 		"testimonial": "Shivam - is this your first NFT? Thanks for exploring the syllabus with me during Genesis Block. Much love always. ",
-		"gratitude": {
-			"received": [{ "message": "Shivam Singh has joined the channel", "by": "Shivam Singh" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "Shivam - is this your first NFT? Thanks for exploring the syllabus with me during Genesis Block. Much love always. "
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"58379187641292670": {
@@ -892,7 +849,6 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Gary Fitts has joined the channel", "by": "Gary Fitts" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
@@ -902,12 +858,12 @@
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"326179604315013": {
@@ -917,14 +873,11 @@
 		"name": "Santiago Gonzalez",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Santiago Gonzalez has joined the channel", "by": "Santiago Gonzalez" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"18600425091135920": {
@@ -934,11 +887,11 @@
 		"name": "Sean P",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Sean P has joined the channel", "by": "Sean P" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"11389078413568384": {
@@ -1015,7 +968,6 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Jared Childers has joined the channel", "by": "Jared Childers" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
@@ -1025,12 +977,12 @@
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"15812304648013536": {
@@ -1076,14 +1028,11 @@
 		"name": "Max Goodman //DeLance",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Max Goodman //DeLance has joined the channel", "by": "Max Goodman //DeLance" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"45185115350267470": {
@@ -1093,14 +1042,11 @@
 		"name": "Leon Prouger",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Leon Prouger has joined the channel", "by": "Leon Prouger" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"16006293871787952": {
@@ -1112,19 +1058,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Kris Urbas has joined the channel", "by": "Kris Urbas" },
 				{
 					"message": "Big thanks to Kris Urbas for taking the time to provide feedback to many projects over the last few weeks.\n\nIt’s a true :gift: and means a lot to me and to many others, I’m sure :seedling: :pray:",
 					"by": "Vivek Singh"
-				},
-				{ "message": "Kris Urbas has joined the channel", "by": "Kris Urbas" }
+				}
 			],
-			"count": 3
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"25685234924324904": {
@@ -1134,14 +1078,11 @@
 		"name": "Liam DiGrgorio",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Liam DiGrgorio has joined the channel", "by": "Liam DiGrgorio" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"64659585355614024": {
@@ -1207,11 +1148,11 @@
 		"name": "vbstreetz",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "vbstreetz has joined the channel", "by": "vbstreetz" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"61935173941177420": {
@@ -1235,11 +1176,11 @@
 		"name": "Andrey",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Andrey has joined the channel", "by": "Andrey" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"45042175272649864": {
@@ -1263,11 +1204,11 @@
 		"name": "Lanski",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Lanski has joined the channel", "by": "Lanski" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"17824266352008332": {
@@ -1283,18 +1224,17 @@
 					"message": "Really grateful for last week's Juntos :pray: It's really inspiring to learn from you wise wonderful fellows!  Thanks to Wade Mark B James Young Simona Pop and everyone else :raised_hands:",
 					"by": "Paul Gadi"
 				},
-				{ "message": "James Young has joined the channel", "by": "James Young" },
 				{
 					"message": "I am enormously grateful to James Young for sharing an amazing video on trust which I have added to our formal syllabus: <https://kernel.community/module-0/trust/#trust-in-community>\n\nI thought I would mostly be putting community contributions into the Tools and other sections of the site as it grows from it's current seed into a beautiful rose over the next 8 weeks, but I am now more excited than ever to expand the syllabus itself with all of your wonderful and heartfelt input :heart:",
 					"by": "cryptowanderer"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"64645341455254776": {
@@ -1304,17 +1244,14 @@
 		"name": "Nazariy Vavryk",
 		"award": "Heartbeat",
 		"testimonial": "Soul brother. What words suffice for those who dream so deeply of serenity? Thank you so much for all you have contributed to Kernel. We look forward to continuing this crazy journey with you and that amazing heart you hold.",
-		"gratitude": {
-			"received": [{ "message": "Nazariy Vavryk has joined the channel", "by": "Nazariy Vavryk" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "Heartbeat" },
 			{
 				"trait_type": "testimonial",
 				"value": "Soul brother. What words suffice for those who dream so deeply of serenity? Thank you so much for all you have contributed to Kernel. We look forward to continuing this crazy journey with you and that amazing heart you hold."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"8952226641379633": {
@@ -1324,11 +1261,11 @@
 		"name": "paco",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "paco has joined the channel", "by": "paco" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"14705863514753020": {
@@ -1338,14 +1275,11 @@
 		"name": "Alysia Huggins",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Alysia Huggins has joined the channel", "by": "Alysia Huggins" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"36796994490584740": {
@@ -1355,14 +1289,11 @@
 		"name": "Mieszko Czyzyk",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Mieszko Czyzyk has joined the channel", "by": "Mieszko Czyzyk" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"36686241414176610": {
@@ -1374,18 +1305,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Alex Salnikov 'Rarible has joined the channel", "by": "Alex Salnikov 'Rarible" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"35513350674100324": {
@@ -1426,18 +1356,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Milensu Kapaipi has joined the channel", "by": "Milensu Kapaipi" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"46811781995411400": {
@@ -1447,17 +1376,14 @@
 		"name": "Jose Aguinaga",
 		"award": "Keys to the Castle",
 		"testimonial": "Dearest Jose. Thank you for the clarity and insight you have contributed to Kernel, and the openness to collaboration with which you have inspired so many of your cohort. Your educational and informative work is an inspiration to so many and we look forward to continued collaboration across the years.",
-		"gratitude": {
-			"received": [{ "message": "Jose Aguinaga has joined the channel", "by": "Jose Aguinaga" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "Keys to the Castle" },
 			{
 				"trait_type": "testimonial",
 				"value": "Dearest Jose. Thank you for the clarity and insight you have contributed to Kernel, and the openness to collaboration with which you have inspired so many of your cohort. Your educational and informative work is an inspiration to so many and we look forward to continued collaboration across the years."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"71714384891199780": {
@@ -1469,7 +1395,6 @@
 		"testimonial": "Dearest John. Your passion and commitment are an inspiration to so many in Kernel. Thank you for the energy, skill and drive you have brought with you into Kernel, We look forward to many fascinating explorations across all sorts of maps.",
 		"gratitude": {
 			"received": [
-				{ "message": "John IV has joined the channel", "by": "John IV" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
@@ -1479,7 +1404,7 @@
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "Digital Cartographer" },
@@ -1487,7 +1412,7 @@
 				"trait_type": "testimonial",
 				"value": "Dearest John. Your passion and commitment are an inspiration to so many in Kernel. Thank you for the energy, skill and drive you have brought with you into Kernel, We look forward to many fascinating explorations across all sorts of maps."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"15100443306086596": {
@@ -1502,15 +1427,14 @@
 				{
 					"message": "Thankful to every single one of you. Happy to have found my soul family. Until now I felt out of place in life.\n\nThank you Vivek Singh  for inviting me to kernel on that ocean presentation day. And thank you for constantly uplifting me exactly when I need it the most. Thank you for writing to Alex\n\nThank you Sachin Mittal for your convos with me and for your support and trust\n\nThank you cryptowanderer for being the most special and unique soul I’ve ever met :heart:\n\nThank you Alex Masmej  for being so extraordinary and finding the time to meet. I want more ;)))\n\nThank you Octavian Todirut for the sick Kernel swag design\n\nThank you Kevin Owocki  for GitCoin. I’d be stuck in miserable finance world without you\n\nThank you Simona Pop for helping me with the designs organisation\n\nThank you Veronica Coutts for your help with my bonding curve. Please DM me I’ll send you some NAZ :)\n\nThank you Wildcards team, and especially Jason for the tip about front running resistance\n\nThank you Manank Patni  for your sweet Figma design\n\nThank you wschwab for great convos and being the first one to clap to my primitives ;)\n\nThank you EVERYONE. I deeply love and appreciate you all. If at any point I can be of any service to you. Summon me ;) twitter: @AlgorithmicBot. Telegram: nazariyv\n\nAnd most importantly, thank you The V (Vitalik Buterin, right?), without you, none of us would be here. You should be a role model for everyone. If I can be of any service to you at all, I’d be overwhelmed with joy to help. Lots of love everyone. You will all succeed and make this world much much better!",
 					"by": "Nazariy Vavryk"
-				},
-				{ "message": "Veronica Coutts has joined the channel", "by": "Veronica Coutts" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"6206030949188178": {
@@ -1520,16 +1444,11 @@
 		"name": "Parthasarathy Ramanujam",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [
-				{ "message": "Parthasarathy Ramanujam has joined the channel", "by": "Parthasarathy Ramanujam" }
-			],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"25134728375401896": {
@@ -1544,10 +1463,9 @@
 				{
 					"message": "I'm extremely grateful for having the opportunity to have interacted with the most passionate, talented, generous and philanthropic community I've ever had the fortune of coming into contact with. The range of concepts, fierce intellect and enormous compassion that I've been exposed to will be unforgettable.\n\nWhen I started, I was deeply apathetic about the future of the human experience. But I leave KERNEL with a deep sense of optimism, tremendous excitement, and hope for humanity. You are all inspiring people, and I'm indebted to everyone who held my hand into the Web3 rabbit hole.\n\nThe world now appears as beautiful to me as it once had when I was a little kid. And I really mean that. Maybe that's Beginner's Mind.\n\nVivek Singh Sachin Mittal cryptowanderer arya Amy of BFLO Ricsson Ngo THANK YOU!!!\n\nTo everyone I never got to meet... I just know in my heart that you're awesome people too. Thank you so much for being the ornate, intricate cogs of decentralization that you are.",
 					"by": "Alex Thomas"
-				},
-				{ "message": "arya has joined the channel", "by": "arya" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "Unicologist" },
@@ -1555,7 +1473,7 @@
 				"trait_type": "testimonial",
 				"value": "Dearest brother. What a privilege it is to know you. Thank you for all you have done for Kernel and here is to many more moments of serendipity as co-create an ever more collaborative, communal ecosystem."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"45221685077842000": {
@@ -1565,14 +1483,11 @@
 		"name": "David Tomu",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "David Tomu has joined the channel", "by": "David Tomu" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"8484722946058086": {
@@ -1596,11 +1511,11 @@
 		"name": "Rahul",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Rahul has joined the channel", "by": "Rahul" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"62099662814319656": {
@@ -1610,11 +1525,11 @@
 		"name": "Mirlo",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Mirlo has joined the channel", "by": "Mirlo" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"18354762886206290": {
@@ -1624,14 +1539,11 @@
 		"name": "Anar Enhsaihan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Anar Enhsaihan has joined the channel", "by": "Anar Enhsaihan" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"39329538305634776": {
@@ -1641,14 +1553,11 @@
 		"name": "Sebastien La Duca",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Sebastien La Duca has joined the channel", "by": "Sebastien La Duca" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"61369297212050210": {
@@ -1841,15 +1750,14 @@
 				{
 					"message": "Really grateful for last week's Juntos :pray: It's really inspiring to learn from you wise wonderful fellows!  Thanks to Wade Mark B James Young Simona Pop and everyone else :raised_hands:",
 					"by": "Paul Gadi"
-				},
-				{ "message": "Simona Pop has joined the channel", "by": "Simona Pop" }
+				}
 			],
-			"count": 6
+			"count": 5
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 6 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 5 }
 		]
 	},
 	"68672578636880650": {
@@ -1859,17 +1767,14 @@
 		"name": "Awosika Ayodeji",
 		"award": "",
 		"testimonial": "Awosika - your work with web3 education in Nigeria is an inspiration for so many in the global community. Keep it up. We look forward to continuing collaborations.",
-		"gratitude": {
-			"received": [{ "message": "Awosika Ayodeji has joined the channel", "by": "Awosika Ayodeji" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "Awosika - your work with web3 education in Nigeria is an inspiration for so many in the global community. Keep it up. We look forward to continuing collaborations."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"6334699537244196": {
@@ -1879,19 +1784,14 @@
 		"name": "Roshan Ghadamian // UpSide",
 		"award": "",
 		"testimonial": "Roshan - I remember our first call with the newborn in the back. Thank you for taking a chance on us with Upside. Wishing you the best.",
-		"gratitude": {
-			"received": [
-				{ "message": "Roshan Ghadamian // UpSide has joined the channel", "by": "Roshan Ghadamian // UpSide" }
-			],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "Roshan - I remember our first call with the newborn in the back. Thank you for taking a chance on us with Upside. Wishing you the best."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"55257441577918340": {
@@ -1901,14 +1801,11 @@
 		"name": "Kevin Small",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Kevin Small has joined the channel", "by": "Kevin Small" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"70516563154992820": {
@@ -1918,14 +1815,11 @@
 		"name": "Shresth Agrawal",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Shresth Agrawal has joined the channel", "by": "Shresth Agrawal" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"13377591143199868": {
@@ -1935,19 +1829,11 @@
 		"name": "Marco Barbosa - impactMarket",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [
-				{
-					"message": "Marco Barbosa - impactMarket has joined the channel",
-					"by": "Marco Barbosa - impactMarket"
-				}
-			],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"33161357996672496": {
@@ -1957,14 +1843,11 @@
 		"name": "Tom French",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Tom French has joined the channel", "by": "Tom French" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"21526556624782390": {
@@ -2015,16 +1898,11 @@
 		"name": "Nicholas Harvey-Cheetham",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [
-				{ "message": "Nicholas Harvey-Cheetham has joined the channel", "by": "Nicholas Harvey-Cheetham" }
-			],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"37418902571332696": {
@@ -2039,15 +1917,14 @@
 				{
 					"message": "This was great! Thanks to Vivek Singh and Sachin Mittal for putting this on. Was great working with amazing teams and meeting awesome people, such as ry Rasikh Morani val Martinet Lee Benjamin Stanley Sajida Zouarhi Ganesh Swami Hudson Jameson!",
 					"by": "Mike De'Shazer"
-				},
-				{ "message": "Rasikh Morani has joined the channel", "by": "Rasikh Morani" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"66242882892140310": {
@@ -2057,14 +1934,11 @@
 		"name": "Luis Fernando",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Luis Fernando has joined the channel", "by": "Luis Fernando" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"10971481735375464": {
@@ -2074,14 +1948,11 @@
 		"name": "Robert Yan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Robert Yan has joined the channel", "by": "Robert Yan" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"10207725215758604": {
@@ -2091,14 +1962,11 @@
 		"name": "Rafa Carvalho",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Rafa Carvalho has joined the channel", "by": "Rafa Carvalho" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"42304787309795900": {
@@ -2218,14 +2086,11 @@
 		"name": "Rosco Kalis",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Rosco Kalis has joined the channel", "by": "Rosco Kalis" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"19604119359263340": {
@@ -2237,13 +2102,12 @@
 		"testimonial": "Alex - Your energy is contagious and your work is proof that the slower way is... incredible. ",
 		"gratitude": {
 			"received": [
-				{ "message": "Alex Thomas has joined the channel", "by": "Alex Thomas" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "Slow Reactor " },
@@ -2251,7 +2115,7 @@
 				"trait_type": "testimonial",
 				"value": "Alex - Your energy is contagious and your work is proof that the slower way is... incredible. "
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"52248228420993304": {
@@ -2266,15 +2130,14 @@
 				{
 					"message": "Hello Kernel family! Really should have done this before now, but sure it's for the best! Special thanks to Vivek Singh Sachin Mittal for creating this programme, words can tell how happy I am for participating in the programme. Thanks for Harsh Rajat Richa Jo-Ann A. Hamilton for the direct support, advice and contribution to make Kernel worthwhile. Big hug to Katongole Allan for becoming a team mate and helping build and grow Web3Bridge and much more big thanks to Marek Laskowski our midway demo day mentor turning Advisor! With his support, we have since we met him have a lot of speed and looking out for the big news. For everyone who we have interacted with, supported us and gave a very great review Simona Pop Eman Herawy Sonia John Andrew Redden Maged M. Eljazzar Manuel Gonzalez Alzuru Bernardo, really can't keep tagging everyone! Big ups and we should all catch up soon",
 					"by": "Awosika Ayodeji"
-				},
-				{ "message": "Katongole Allan has joined the channel", "by": "Katongole Allan" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"9906629085787356": {
@@ -2284,14 +2147,11 @@
 		"name": "Artur Gontijo",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Artur Gontijo has joined the channel", "by": "Artur Gontijo" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"53375780779066480": {
@@ -2301,16 +2161,11 @@
 		"name": "Patrick - Battle Racers",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [
-				{ "message": "Patrick - Battle Racers has joined the channel", "by": "Patrick - Battle Racers" }
-			],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"55847111618625016": {
@@ -2320,14 +2175,11 @@
 		"name": "Matt Solomon",
 		"award": "",
 		"testimonial": "Matt - ",
-		"gratitude": {
-			"received": [{ "message": "Matt Solomon has joined the channel", "by": "Matt Solomon" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Matt - " },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"62103100554342700": {
@@ -2351,14 +2203,11 @@
 		"name": "Afonso Barbosa",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Afonso Barbosa has joined the channel", "by": "Afonso Barbosa" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"48643668338520720": {
@@ -2382,11 +2231,11 @@
 		"name": "vasa",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "vasa has joined the channel", "by": "vasa" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"47654788749421650": {
@@ -2396,14 +2245,11 @@
 		"name": "Sudeep Biswas",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Sudeep Biswas has joined the channel", "by": "Sudeep Biswas" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"28423060736214470": {
@@ -2413,11 +2259,11 @@
 		"name": "Kevin",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Kevin has joined the channel", "by": "Kevin" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"8592049385531344": {
@@ -2460,15 +2306,14 @@
 				{
 					"message": "Thankful to every single one of you. Happy to have found my soul family. Until now I felt out of place in life.\n\nThank you Vivek Singh  for inviting me to kernel on that ocean presentation day. And thank you for constantly uplifting me exactly when I need it the most. Thank you for writing to Alex\n\nThank you Sachin Mittal for your convos with me and for your support and trust\n\nThank you cryptowanderer for being the most special and unique soul I’ve ever met :heart:\n\nThank you Alex Masmej  for being so extraordinary and finding the time to meet. I want more ;)))\n\nThank you Octavian Todirut for the sick Kernel swag design\n\nThank you Kevin Owocki  for GitCoin. I’d be stuck in miserable finance world without you\n\nThank you Simona Pop for helping me with the designs organisation\n\nThank you Veronica Coutts for your help with my bonding curve. Please DM me I’ll send you some NAZ :)\n\nThank you Wildcards team, and especially Jason for the tip about front running resistance\n\nThank you Manank Patni  for your sweet Figma design\n\nThank you wschwab for great convos and being the first one to clap to my primitives ;)\n\nThank you EVERYONE. I deeply love and appreciate you all. If at any point I can be of any service to you. Summon me ;) twitter: @AlgorithmicBot. Telegram: nazariyv\n\nAnd most importantly, thank you The V (Vitalik Buterin, right?), without you, none of us would be here. You should be a role model for everyone. If I can be of any service to you at all, I’d be overwhelmed with joy to help. Lots of love everyone. You will all succeed and make this world much much better!",
 					"by": "Nazariy Vavryk"
-				},
-				{ "message": "Manank Patni has joined the channel", "by": "Manank Patni" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"59156525515187784": {
@@ -2484,18 +2329,17 @@
 					"message": "Hey all, time flew, and now with things calming down a bit, I want to express my gratitude towards those that made the past few months so special, It was a big wave for me and ethblockart, and without the help of mentors, fellows, and the kernel team, I wouldn't have been able to stay atop the surfboard!\n\nFor starters, I wanna express my gratitude towards many of the mentors, present and supportive in genuinely important ways throughout this adventure: Defi_Dad, Thomas Klocanas, Linda Xie, Shawn Cheng Ben Lakoff, Dave Rodman, Harsh Rajat and Scott Moore. You folks are amazing and your help instrumental.\n\nOther fellows, always positive, helpful and inspiring in the best way possible even while busy with their own adventures, like Simon Fremaux, Carl Farterson and the best-practices gang, Holly Grimm, and the DADA team, even if we didn't interact much directly, know you've been an inspiration for many years!\n\nAnd how can we not be grateful for the Kernel team, receiving us all with open arms and unparalleled patience and kindness, Sachin Mittal, Vivek Singh and others, one-of-a-kind human beings which I'm honoured to have met and spend time with. :pray:\n\nLastly, I can't write this without a special note to cryptowanderer, embracing the project mission from the start, contributing in ways I couldn't have expected, making what the project is today a reality, you're amazing, thank you again.\n\nOne can say riding a market like we're experiencing today as a solo builder with a somewhat market-fit product can feel like choosing Jaws, Maui as a go-to surf spot while still learning to surf, sure some can pull off the once-in-a-lifetime herculean task of achieving so alone...But what enables surfers to, time and time again, execute this impressive feat, a humbling celebration of our ability to face head-first the scariest challenges posed by nature, are exactly other humans, community, supporters often not celebrated, from the tow-in jet sky riders, the lifeguards bringing you oxygen, to the chanting crowd by the coast and even the sharks keeping you alert.\n\nBack to the point, what is being done here at Kernel is unique, every step planned with a level of care hard to find elsewhere, and it is also upon us all to keep this flame awake and the kernel culture principled, I hope to in the future be able to help others the same way I was helped here, for that is what makes the world go round.\n\nFor now, thank you Kernel, for all, and happy spring! :seedling:",
 					"by": "Adrian le Bas"
 				},
-				{ "message": "Scott Moore has joined the channel", "by": "Scott Moore" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"14643306233970452": {
@@ -2505,14 +2349,11 @@
 		"name": "Aayushi Jain",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Aayushi Jain has joined the channel", "by": "Aayushi Jain" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"2770156052927574": {
@@ -2564,17 +2405,14 @@
 		"name": "Thomas Jay Rush",
 		"award": "True Bloke",
 		"testimonial": "Dearest TJ. It's one of the more wonderful things of my experience in crypto that we keep getting to run into each other. Long may it continue! You shared a Mary Oliver quote, who also happens to be a favourite of mine. Here is one in return: \"I have wrestled with the angel and I am stained with light and I have no shame.\"",
-		"gratitude": {
-			"received": [{ "message": "Thomas Jay Rush has joined the channel", "by": "Thomas Jay Rush" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "True Bloke" },
 			{
 				"trait_type": "testimonial",
 				"value": "Dearest TJ. It's one of the more wonderful things of my experience in crypto that we keep getting to run into each other. Long may it continue! You shared a Mary Oliver quote, who also happens to be a favourite of mine. Here is one in return: \"I have wrestled with the angel and I am stained with light and I have no shame.\""
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"68082849940227900": {
@@ -2584,14 +2422,11 @@
 		"name": "Siphamandla Mjoli",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Siphamandla Mjoli has joined the channel", "by": "Siphamandla Mjoli" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"11179807580097616": {
@@ -2603,18 +2438,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Ben has joined the channel", "by": "Ben" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"62712949042674570": {
@@ -2666,11 +2500,11 @@
 		"name": "Saurabh",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Saurabh has joined the channel", "by": "Saurabh" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"36349129916597250": {
@@ -2680,11 +2514,11 @@
 		"name": "Monika G",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Monika G has joined the channel", "by": "Monika G" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"14741679727230952": {
@@ -2694,14 +2528,11 @@
 		"name": "Alex_Maz_Akropolis",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Alex_Maz_Akropolis has joined the channel", "by": "Alex_Maz_Akropolis" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"53570052309182810": {
@@ -2711,14 +2542,11 @@
 		"name": "Rafaella Baraldo",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Rafaella Baraldo has joined the channel", "by": "Rafaella Baraldo" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"5778087104364462": {
@@ -2742,14 +2570,11 @@
 		"name": "Mike De'Shazer",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Mike De'Shazer has joined the channel", "by": "Mike De'Shazer" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"19538633524877844": {
@@ -2759,14 +2584,11 @@
 		"name": "Mohit Bhatia",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Mohit Bhatia has joined the channel", "by": "Mohit Bhatia" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"67982932588627030": {
@@ -2781,15 +2603,14 @@
 				{
 					"message": "I'm extremely grateful for having the opportunity to have interacted with the most passionate, talented, generous and philanthropic community I've ever had the fortune of coming into contact with. The range of concepts, fierce intellect and enormous compassion that I've been exposed to will be unforgettable.\n\nWhen I started, I was deeply apathetic about the future of the human experience. But I leave KERNEL with a deep sense of optimism, tremendous excitement, and hope for humanity. You are all inspiring people, and I'm indebted to everyone who held my hand into the Web3 rabbit hole.\n\nThe world now appears as beautiful to me as it once had when I was a little kid. And I really mean that. Maybe that's Beginner's Mind.\n\nVivek Singh Sachin Mittal cryptowanderer arya Amy of BFLO Ricsson Ngo THANK YOU!!!\n\nTo everyone I never got to meet... I just know in my heart that you're awesome people too. Thank you so much for being the ornate, intricate cogs of decentralization that you are.",
 					"by": "Alex Thomas"
-				},
-				{ "message": "Ricsson Ngo has joined the channel", "by": "Ricsson Ngo" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"20050511516467140": {
@@ -2801,18 +2622,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Dawid (dawg) has joined the channel", "by": "Dawid (dawg)" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"8000914690318522": {
@@ -2836,14 +2656,11 @@
 		"name": "lakshmi kanth",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "lakshmi kanth has joined the channel", "by": "lakshmi kanth" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"34662178166269190": {
@@ -2867,14 +2684,11 @@
 		"name": "Josh Shupack",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Josh Shupack has joined the channel", "by": "Josh Shupack" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"9533088797954588": {
@@ -2884,11 +2698,11 @@
 		"name": "Tom Ploem",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Tom Ploem has joined the channel", "by": "Tom Ploem" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"25178650347304050": {
@@ -2898,14 +2712,11 @@
 		"name": "Paul Cowgill",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Paul Cowgill has joined the channel", "by": "Paul Cowgill" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"31661849546014828": {
@@ -2915,14 +2726,11 @@
 		"name": "Jong Hyuck Won",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Jong Hyuck Won has joined the channel", "by": "Jong Hyuck Won" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"9620559257782142": {
@@ -2934,18 +2742,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Chris Furlong has joined the channel", "by": "Chris Furlong" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"67960194667767060": {
@@ -2955,14 +2762,11 @@
 		"name": "Apoorv Lathey",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Apoorv Lathey has joined the channel", "by": "Apoorv Lathey" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"38588070055158030": {
@@ -2974,18 +2778,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Luka has joined the channel", "by": "Luka" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"15062829991603360": {
@@ -3000,15 +2803,14 @@
 				{
 					"message": "This was great! Thanks to Vivek Singh and Sachin Mittal for putting this on. Was great working with amazing teams and meeting awesome people, such as ry Rasikh Morani val Martinet Lee Benjamin Stanley Sajida Zouarhi Ganesh Swami Hudson Jameson!",
 					"by": "Mike De'Shazer"
-				},
-				{ "message": "ry has joined the channel", "by": "ry" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"14083896160609856": {
@@ -3032,11 +2834,11 @@
 		"name": "Yi",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Yi has joined the channel", "by": "Yi" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"59400391323491320": {
@@ -3060,14 +2862,11 @@
 		"name": "Jonjon Clark",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Jonjon Clark has joined the channel", "by": "Jonjon Clark" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"4889897236457408": {
@@ -3094,20 +2893,16 @@
 		"gratitude": {
 			"received": [
 				{
-					"message": "Deepcryptodive - Giel Detienne has joined the channel",
-					"by": "Deepcryptodive - Giel Detienne"
-				},
-				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"59220401321880280": {
@@ -3117,14 +2912,11 @@
 		"name": "Connor O'Day",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Connor O'Day has joined the channel", "by": "Connor O'Day" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"8661550881904112": {
@@ -3134,11 +2926,11 @@
 		"name": "Evan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Evan has joined the channel", "by": "Evan" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"29487988783673310": {
@@ -3148,14 +2940,11 @@
 		"name": "Ivan Molto",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Ivan Molto has joined the channel", "by": "Ivan Molto" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"54386350563156820": {
@@ -3165,14 +2954,11 @@
 		"name": "Mauro Velazquez",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Mauro Velazquez has joined the channel", "by": "Mauro Velazquez" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"66417052114863250": {
@@ -3196,11 +2982,11 @@
 		"name": "Laitanop",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Laitanop has joined the channel", "by": "Laitanop" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"63737541084453890": {
@@ -3224,14 +3010,11 @@
 		"name": "Vanna Conyers-Shutt",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Vanna Conyers-Shutt has joined the channel", "by": "Vanna Conyers-Shutt" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"33188254886134880": {
@@ -3241,11 +3024,11 @@
 		"name": "dapplion",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "dapplion has joined the channel", "by": "dapplion" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"11858018187452716": {
@@ -3255,14 +3038,11 @@
 		"name": "Jonathan Dunlap",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Jonathan Dunlap has joined the channel", "by": "Jonathan Dunlap" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"17502815122228880": {
@@ -3274,18 +3054,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Wade has joined the channel", "by": "Wade" },
 				{
 					"message": "Really grateful for last week's Juntos :pray: It's really inspiring to learn from you wise wonderful fellows!  Thanks to Wade Mark B James Young Simona Pop and everyone else :raised_hands:",
 					"by": "Paul Gadi"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"52281297527523740": {
@@ -3321,14 +3100,11 @@
 		"name": "Charlie Ellington",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Charlie Ellington has joined the channel", "by": "Charlie Ellington" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"47375111842288990": {
@@ -3338,11 +3114,11 @@
 		"name": "lwshang",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "lwshang has joined the channel", "by": "lwshang" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"21194758187902550": {
@@ -3406,11 +3182,11 @@
 		"name": "Gus",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Gus has joined the channel", "by": "Gus" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"53480184890479000": {
@@ -3442,14 +3218,11 @@
 		"name": "Sachin Tomar",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Sachin Tomar has joined the channel", "by": "Sachin Tomar" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"72010410771221790": {
@@ -3459,11 +3232,11 @@
 		"name": "Daniel",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Daniel has joined the channel", "by": "Daniel" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"30125632291956656": {
@@ -3478,15 +3251,14 @@
 				{
 					"message": "cc Adrian le Bas Nir Kabessa - recommend a read here as you embark on a series of conversations about the (conversational) projects you are building\n\nHarold Davis we are indebted to you for your contributions here!\n\n\nThe spirit of dialogue is, in short, the ability to hold many points of view in suspension, along with a primary interest in the creation of a common meaning.\n\nWe must have dialogues, we must share our thoughts. We must be able to think together. If we can’t think together and talk together, then we can do nothing together. Culture implies shared meaning in which everybody participates.",
 					"by": "Vivek Singh"
-				},
-				{ "message": "Adrian le Bas has joined the channel", "by": "Adrian le Bas" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Duplicate - see row 433" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"42795077020592730": {
@@ -3496,14 +3268,11 @@
 		"name": "Spencer Graham",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Spencer Graham has joined the channel", "by": "Spencer Graham" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"36242426944383170": {
@@ -3513,17 +3282,14 @@
 		"name": "Bianca Trovo",
 		"award": "",
 		"testimonial": "Bianca, thank you for some wonderful conversations and deeper explorations of Heidegger, being, and time. We're so excited to see how you continue to innovate all of academia ;)",
-		"gratitude": {
-			"received": [{ "message": "Bianca Trovo has joined the channel", "by": "Bianca Trovo" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "Bianca, thank you for some wonderful conversations and deeper explorations of Heidegger, being, and time. We're so excited to see how you continue to innovate all of academia ;)"
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"25389141852121430": {
@@ -3550,15 +3316,14 @@
 				{
 					"message": "Thanks to Denham - Wildcards Harsh Rajat Sachin Mittal [DEACTIVATED] for tonight's QF jam. No place I'd rather be than in Airmeet dissecting the intricacies of QF with a bunch of sweethearts. :heart:ZzZzZzZz",
 					"by": "Jo-Ann A. Hamilton"
-				},
-				{ "message": "[DEACTIVATED] has joined the channel", "by": "[DEACTIVATED]" }
+				}
 			],
-			"count": 5
+			"count": 4
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "No need to allocate token here?" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 5 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 4 }
 		]
 	},
 	"65565074527478696": {
@@ -3574,13 +3339,12 @@
 					"message": "Hey all, time flew, and now with things calming down a bit, I want to express my gratitude towards those that made the past few months so special, It was a big wave for me and ethblockart, and without the help of mentors, fellows, and the kernel team, I wouldn't have been able to stay atop the surfboard!\n\nFor starters, I wanna express my gratitude towards many of the mentors, present and supportive in genuinely important ways throughout this adventure: Defi_Dad, Thomas Klocanas, Linda Xie, Shawn Cheng Ben Lakoff, Dave Rodman, Harsh Rajat and Scott Moore. You folks are amazing and your help instrumental.\n\nOther fellows, always positive, helpful and inspiring in the best way possible even while busy with their own adventures, like Simon Fremaux, Carl Farterson and the best-practices gang, Holly Grimm, and the DADA team, even if we didn't interact much directly, know you've been an inspiration for many years!\n\nAnd how can we not be grateful for the Kernel team, receiving us all with open arms and unparalleled patience and kindness, Sachin Mittal, Vivek Singh and others, one-of-a-kind human beings which I'm honoured to have met and spend time with. :pray:\n\nLastly, I can't write this without a special note to cryptowanderer, embracing the project mission from the start, contributing in ways I couldn't have expected, making what the project is today a reality, you're amazing, thank you again.\n\nOne can say riding a market like we're experiencing today as a solo builder with a somewhat market-fit product can feel like choosing Jaws, Maui as a go-to surf spot while still learning to surf, sure some can pull off the once-in-a-lifetime herculean task of achieving so alone...But what enables surfers to, time and time again, execute this impressive feat, a humbling celebration of our ability to face head-first the scariest challenges posed by nature, are exactly other humans, community, supporters often not celebrated, from the tow-in jet sky riders, the lifeguards bringing you oxygen, to the chanting crowd by the coast and even the sharks keeping you alert.\n\nBack to the point, what is being done here at Kernel is unique, every step planned with a level of care hard to find elsewhere, and it is also upon us all to keep this flame awake and the kernel culture principled, I hope to in the future be able to help others the same way I was helped here, for that is what makes the world go round.\n\nFor now, thank you Kernel, for all, and happy spring! :seedling:",
 					"by": "Adrian le Bas"
 				},
-				{ "message": "Ben Lakoff has joined the channel", "by": "Ben Lakoff" },
 				{
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "Dialogue Demigod" },
@@ -3588,7 +3352,7 @@
 				"trait_type": "testimonial",
 				"value": "Dearest Ben, thank you so much for all of your contributions to Kernel. Juntos will never be the same, and we're so excited to see you help supercharge all the NFTs. Here's to many more fantastic conversations to come."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"53477869377130020": {
@@ -3598,14 +3362,11 @@
 		"name": "Mara Schmiedt",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Mara Schmiedt has joined the channel", "by": "Mara Schmiedt" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"14995628351771594": {
@@ -3615,14 +3376,11 @@
 		"name": "Brennan Fife",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Brennan Fife has joined the channel", "by": "Brennan Fife" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"69958761976637040": {
@@ -3632,11 +3390,11 @@
 		"name": "Tide",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Tide has joined the channel", "by": "Tide" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"7902287881367315": {
@@ -3646,11 +3404,11 @@
 		"name": "Adrian Li",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Adrian Li has joined the channel", "by": "Adrian Li" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"37398470894024890": {
@@ -3660,14 +3418,11 @@
 		"name": "Brahma Sen",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Brahma Sen has joined the channel", "by": "Brahma Sen" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"37995501289372420": {
@@ -3679,18 +3434,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "rekpero has joined the channel", "by": "rekpero" },
 				{
 					"message": "Expressing my gratitude :pray:to rekpero for last-minute joining our team and making a miracle :sparkles:on the front-end of Ants-Review!!:antsreview:\nWithout you we would not have had an attractive and functional MVP to show at the Kernel Midway Pitch Week :rocket:and at the European conference :nerd_face: for Parallel and distributed computing (our demo is currently on their Youtube channel)!\nAlso thanks to Sachin Mittal for connecting us! :seedling:",
 					"by": "Bianca Trovo"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"52830247568041620": {
@@ -3700,14 +3454,11 @@
 		"name": "Johnny Jiang",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Johnny Jiang has joined the channel", "by": "Johnny Jiang" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"72054896007913080": {
@@ -3717,14 +3468,11 @@
 		"name": "svetlana rovinsky",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "svetlana rovinsky has joined the channel", "by": "svetlana rovinsky" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"58438929349479660": {
@@ -3739,15 +3487,14 @@
 				{
 					"message": "Thankful to every single one of you. Happy to have found my soul family. Until now I felt out of place in life.\n\nThank you Vivek Singh  for inviting me to kernel on that ocean presentation day. And thank you for constantly uplifting me exactly when I need it the most. Thank you for writing to Alex\n\nThank you Sachin Mittal for your convos with me and for your support and trust\n\nThank you cryptowanderer for being the most special and unique soul I’ve ever met :heart:\n\nThank you Alex Masmej  for being so extraordinary and finding the time to meet. I want more ;)))\n\nThank you Octavian Todirut for the sick Kernel swag design\n\nThank you Kevin Owocki  for GitCoin. I’d be stuck in miserable finance world without you\n\nThank you Simona Pop for helping me with the designs organisation\n\nThank you Veronica Coutts for your help with my bonding curve. Please DM me I’ll send you some NAZ :)\n\nThank you Wildcards team, and especially Jason for the tip about front running resistance\n\nThank you Manank Patni  for your sweet Figma design\n\nThank you wschwab for great convos and being the first one to clap to my primitives ;)\n\nThank you EVERYONE. I deeply love and appreciate you all. If at any point I can be of any service to you. Summon me ;) twitter: @AlgorithmicBot. Telegram: nazariyv\n\nAnd most importantly, thank you The V (Vitalik Buterin, right?), without you, none of us would be here. You should be a role model for everyone. If I can be of any service to you at all, I’d be overwhelmed with joy to help. Lots of love everyone. You will all succeed and make this world much much better!",
 					"by": "Nazariy Vavryk"
-				},
-				{ "message": "Octavian Todirut has joined the channel", "by": "Octavian Todirut" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"66750543880718220": {
@@ -3757,14 +3504,11 @@
 		"name": "Jeff Krantz",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Jeff Krantz has joined the channel", "by": "Jeff Krantz" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"71901379017064616": {
@@ -3788,14 +3532,11 @@
 		"name": "John Shutt",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "John Shutt has joined the channel", "by": "John Shutt" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"38082883662201096": {
@@ -3805,14 +3546,11 @@
 		"name": "chinadefi_wenbo",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "chinadefi_wenbo has joined the channel", "by": "chinadefi_wenbo" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"54774498643688540": {
@@ -3822,14 +3560,11 @@
 		"name": "Vlad Silviu Farcas",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Vlad Silviu Farcas has joined the channel", "by": "Vlad Silviu Farcas" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"51703380914003610": {
@@ -3886,11 +3621,11 @@
 		"name": "Prahitha",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Prahitha has joined the channel", "by": "Prahitha" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"43451858270670220": {
@@ -3900,14 +3635,11 @@
 		"name": "Yana Marakhonova",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Yana Marakhonova has joined the channel", "by": "Yana Marakhonova" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"58703550853217070": {
@@ -3923,18 +3655,17 @@
 					"message": "Thankful to every single one of you. Happy to have found my soul family. Until now I felt out of place in life.\n\nThank you Vivek Singh  for inviting me to kernel on that ocean presentation day. And thank you for constantly uplifting me exactly when I need it the most. Thank you for writing to Alex\n\nThank you Sachin Mittal for your convos with me and for your support and trust\n\nThank you cryptowanderer for being the most special and unique soul I’ve ever met :heart:\n\nThank you Alex Masmej  for being so extraordinary and finding the time to meet. I want more ;)))\n\nThank you Octavian Todirut for the sick Kernel swag design\n\nThank you Kevin Owocki  for GitCoin. I’d be stuck in miserable finance world without you\n\nThank you Simona Pop for helping me with the designs organisation\n\nThank you Veronica Coutts for your help with my bonding curve. Please DM me I’ll send you some NAZ :)\n\nThank you Wildcards team, and especially Jason for the tip about front running resistance\n\nThank you Manank Patni  for your sweet Figma design\n\nThank you wschwab for great convos and being the first one to clap to my primitives ;)\n\nThank you EVERYONE. I deeply love and appreciate you all. If at any point I can be of any service to you. Summon me ;) twitter: @AlgorithmicBot. Telegram: nazariyv\n\nAnd most importantly, thank you The V (Vitalik Buterin, right?), without you, none of us would be here. You should be a role model for everyone. If I can be of any service to you at all, I’d be overwhelmed with joy to help. Lots of love everyone. You will all succeed and make this world much much better!",
 					"by": "Nazariy Vavryk"
 				},
-				{ "message": "Kevin Owocki has joined the channel", "by": "Kevin Owocki" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"46414890330688490": {
@@ -3964,18 +3695,17 @@
 					"message": "Hello Kernel family! Really should have done this before now, but sure it's for the best! Special thanks to Vivek Singh Sachin Mittal for creating this programme, words can tell how happy I am for participating in the programme. Thanks for Harsh Rajat Richa Jo-Ann A. Hamilton for the direct support, advice and contribution to make Kernel worthwhile. Big hug to Katongole Allan for becoming a team mate and helping build and grow Web3Bridge and much more big thanks to Marek Laskowski our midway demo day mentor turning Advisor! With his support, we have since we met him have a lot of speed and looking out for the big news. For everyone who we have interacted with, supported us and gave a very great review Simona Pop Eman Herawy Sonia John Andrew Redden Maged M. Eljazzar Manuel Gonzalez Alzuru Bernardo, really can't keep tagging everyone! Big ups and we should all catch up soon",
 					"by": "Awosika Ayodeji"
 				},
-				{ "message": "Andrew Redden has joined the channel", "by": "Andrew Redden" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"43100894719015600": {
@@ -3985,11 +3715,11 @@
 		"name": "sandeep",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "sandeep has joined the channel", "by": "sandeep" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"56853663194756450": {
@@ -4005,18 +3735,17 @@
 					"message": "Hello Kernel family! Really should have done this before now, but sure it's for the best! Special thanks to Vivek Singh Sachin Mittal for creating this programme, words can tell how happy I am for participating in the programme. Thanks for Harsh Rajat Richa Jo-Ann A. Hamilton for the direct support, advice and contribution to make Kernel worthwhile. Big hug to Katongole Allan for becoming a team mate and helping build and grow Web3Bridge and much more big thanks to Marek Laskowski our midway demo day mentor turning Advisor! With his support, we have since we met him have a lot of speed and looking out for the big news. For everyone who we have interacted with, supported us and gave a very great review Simona Pop Eman Herawy Sonia John Andrew Redden Maged M. Eljazzar Manuel Gonzalez Alzuru Bernardo, really can't keep tagging everyone! Big ups and we should all catch up soon",
 					"by": "Awosika Ayodeji"
 				},
-				{ "message": "Maged M. Eljazzar has joined the channel", "by": "Maged M. Eljazzar" },
 				{
 					"message": "To all fellows in the genesis block,\nI wanna express my gratitude to the first one helped me and gave me a hand when I entered the blockchain domain Maged M. Eljazzar\nI met him for the first time in  *Egypt Blockchain Day* in *Jan 2018*, event at that time in Egypt, he was on the stage talking about \" *How to empower blockchain using AI*\" and since that day we became close friends.  I have learned a lot from him in my professional career and we have built together many projects.\nThank you, Maged for helping me when nobody was beside me.:pray:",
 					"by": "Eman Herawy"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"23038346443502144": {
@@ -4026,14 +3755,11 @@
 		"name": "Luca Cervone",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Luca Cervone has joined the channel", "by": "Luca Cervone" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"14850922379504068": {
@@ -4043,14 +3769,11 @@
 		"name": "Ken Beckers",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Ken Beckers has joined the channel", "by": "Ken Beckers" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"34891646083192810": {
@@ -4088,11 +3811,11 @@
 		"name": "Kate",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Kate has joined the channel", "by": "Kate" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"33844717973550108": {
@@ -4102,11 +3825,11 @@
 		"name": "Duncan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Duncan has joined the channel", "by": "Duncan" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"18804804739591004": {
@@ -4130,11 +3853,11 @@
 		"name": "nioni",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "nioni has joined the channel", "by": "nioni" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"69045158786099820": {
@@ -4181,10 +3904,9 @@
 				{
 					"message": "Sebnem we can connect again ASAP, had good brief intro discussion to token engineering for communities focused on varying forms of decommodification --preservation of intrinsic value flows. Here is the Proof of Transfer (<https://docs.blockstack.org/understand-stacks/proof-of-transfer|PoX>) documentation mentioned Sparrow Read also the <https://github.com/psq/flexr|amazing developer> of <https://github.com/psq/swapr|swapr> (decentralized exchange) mentioned (xtra <https://blog.blockstack.org/ama-with-jude-nelson-app-chains-clarity-smart-contracts-stacking-jude/|app chain> &amp; <https://blog.blockstack.org/bringing-clarity-to-8-dangerous-smart-contract-vulnerabilities/|Smart contract> context). We are planning to reach out to this dev for the chapter work you mention Sebnem. Maybe there is chance to get similar questions answered at same time in the process? We are still in first launch weeks of the latest mainnet release, so hopefully he has some spare time &amp; interest. :crossed_fingers::skin-tone-5:",
 					"by": "Harold Davis"
-				},
-				{ "message": "Sebnem has joined the channel", "by": "Sebnem" }
+				}
 			],
-			"count": 10
+			"count": 9
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "Love's Mechanism Designer" },
@@ -4192,7 +3914,7 @@
 				"trait_type": "testimonial",
 				"value": "Dearest Sister. It is such a privilege to know you and to see the sincerity with which you approach things. There is nothing greater or more moving in this world than a heart truly discovering its own limitlessness. Thank you, thank you, thank you. May the world ever unfold the mysteries of love before you."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 10 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 9 }
 		]
 	},
 	"47972207892039170": {
@@ -4204,13 +3926,12 @@
 		"testimonial": "Mi Amigo! It has been such a privilege to sit in your design thinking sessions, which are undoubtedly the two best sessions of the kernel! & in the process I have made a great friend. <3",
 		"gratitude": {
 			"received": [
-				{ "message": "Andrej Berlin has joined the channel", "by": "Andrej Berlin" },
 				{
 					"message": "Thanks for the deep work session yesterday Andrej Berlin, Even though we broke Miro. Today our team used the framework for a super productive 3.5 hour meeting. I was impressed by how well it work for remote teams, as this type of work is notoriously difficult when you aren't all in the same room. Thanks!",
 					"by": "Rachel Black"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
@@ -4218,7 +3939,7 @@
 				"trait_type": "testimonial",
 				"value": "Mi Amigo! It has been such a privilege to sit in your design thinking sessions, which are undoubtedly the two best sessions of the kernel! & in the process I have made a great friend. <3"
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"56811640245489816": {
@@ -4234,18 +3955,17 @@
 					"message": "Hey all, time flew, and now with things calming down a bit, I want to express my gratitude towards those that made the past few months so special, It was a big wave for me and ethblockart, and without the help of mentors, fellows, and the kernel team, I wouldn't have been able to stay atop the surfboard!\n\nFor starters, I wanna express my gratitude towards many of the mentors, present and supportive in genuinely important ways throughout this adventure: Defi_Dad, Thomas Klocanas, Linda Xie, Shawn Cheng Ben Lakoff, Dave Rodman, Harsh Rajat and Scott Moore. You folks are amazing and your help instrumental.\n\nOther fellows, always positive, helpful and inspiring in the best way possible even while busy with their own adventures, like Simon Fremaux, Carl Farterson and the best-practices gang, Holly Grimm, and the DADA team, even if we didn't interact much directly, know you've been an inspiration for many years!\n\nAnd how can we not be grateful for the Kernel team, receiving us all with open arms and unparalleled patience and kindness, Sachin Mittal, Vivek Singh and others, one-of-a-kind human beings which I'm honoured to have met and spend time with. :pray:\n\nLastly, I can't write this without a special note to cryptowanderer, embracing the project mission from the start, contributing in ways I couldn't have expected, making what the project is today a reality, you're amazing, thank you again.\n\nOne can say riding a market like we're experiencing today as a solo builder with a somewhat market-fit product can feel like choosing Jaws, Maui as a go-to surf spot while still learning to surf, sure some can pull off the once-in-a-lifetime herculean task of achieving so alone...But what enables surfers to, time and time again, execute this impressive feat, a humbling celebration of our ability to face head-first the scariest challenges posed by nature, are exactly other humans, community, supporters often not celebrated, from the tow-in jet sky riders, the lifeguards bringing you oxygen, to the chanting crowd by the coast and even the sharks keeping you alert.\n\nBack to the point, what is being done here at Kernel is unique, every step planned with a level of care hard to find elsewhere, and it is also upon us all to keep this flame awake and the kernel culture principled, I hope to in the future be able to help others the same way I was helped here, for that is what makes the world go round.\n\nFor now, thank you Kernel, for all, and happy spring! :seedling:",
 					"by": "Adrian le Bas"
 				},
-				{ "message": "Thomas Klocanas has joined the channel", "by": "Thomas Klocanas" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"17235614960934248": {
@@ -4265,18 +3985,17 @@
 					"message": "I'm thankful for today's one-on-one calls with Linda Xie and pet3rpan. They were very helpful and insightful.",
 					"by": "Irvin Cardenas"
 				},
-				{ "message": "Linda Xie has joined the channel", "by": "Linda Xie" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 4
+			"count": 3
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 4 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
 		]
 	},
 	"13640532103450900": {
@@ -4286,11 +4005,11 @@
 		"name": "miakoda",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "miakoda has joined the channel", "by": "miakoda" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"64346379843781336": {
@@ -4300,14 +4019,11 @@
 		"name": "Nestor Bonilla",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Nestor Bonilla has joined the channel", "by": "Nestor Bonilla" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"49175873477658104": {
@@ -4317,11 +4033,11 @@
 		"name": "Sarah",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Sarah has joined the channel", "by": "Sarah" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"10991387219083536": {
@@ -4341,18 +4057,17 @@
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				},
-				{ "message": "Ganesh Swami has joined the channel", "by": "Ganesh Swami" },
 				{
 					"message": "Hello KERNELERS!\n\nYesterday <https://kernel-community.slack.com/archives/C016JL4385C/p1597168559023300|evening>, we had a match-made-in-heaven :cloud: Junto with 2 esteemed guests speakers, Chris Meisl (CTO) from <https://www.blocknative.com/|Blocknative> and Ganesh Swami (CEO) from <https://www.covalenthq.com/|Covalent>.  The following two case studies / pre-reads were recommended and helped aid the lively discussion.\n1. <https://blog.blocknative.com/blog/mempool-forensics|Mempool forensics> :bowl_with_spoon: \n2. <https://www.covalenthq.com/blog/covalent-defi-sdk/|Covalent SDK> :alembic: \nWhile Chris explored the ideas of _value in motion_  :star2:  covering mempool traffic :vertical_traffic_light: analytics and notifications :1234: with us. Ganesh balanced the remaining from where Chris left off by exploring _value at rest_ :cake: with smart-contracts &amp; transactions analytics.\n\nWe also gained valuable insights on historically underlooked mempool data while taking into consideration the performance of the different kinds of nodes in the Ethereum :city_sunset: network including but not limited to how they skew any assumptions on transaction (type) distribution that we might make. Active nonce :1234: and gas price :fuelpump: management for stuck, pending and dropped, mempool transaction :swimmer: and block explorers :building_construction: data stores. We further explored on-chain data usage for delivering insights by restructuring it into a consumable formats while covering topics like EVM  :nerd_face: optimisations, performance considerations in DB latency vs verifiability :checkered_flag: rollups :space_invader: vs single row :table_tennis_paddle_and_ball: lookups, OLTP and OLAP databases, and DB primitives :construction_worker:. The overarching theme was on how we could bridge the legacy DB :steam_locomotive: world onto blockchain :bullettrain_front: and how the technologies we’re building could aid that vision.\n\nEffectively this junto covered the entire spectrum of the happenings in the life of an Ethereum transaction :money_with_wings: and the value that it carries every step of the way. :roller_coaster: I  would highly recommend reaching out to the mentors for anything (even remotely) related to data on blockchain and look forward to our next Junto on one or more of the discussed specifics. Sachin Mittal thanks a ton for organising this and to all the participants for engaging! One of the best Junto’s for me personally... :fire: :fireworks: :seedling:",
 					"by": "Pranay Valson"
 				}
 			],
-			"count": 4
+			"count": 3
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 4 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
 		]
 	},
 	"9445656813908160": {
@@ -4368,18 +4083,17 @@
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				},
-				{ "message": "Tony Sheng has joined the channel", "by": "Tony Sheng" },
 				{
 					"message": "Harsh Rajat &amp; I had a very insightful discussion with Tony Sheng on our pitch deck today. Really awesome talking to him and wanted to thank Tony for his amazing expertise and feedback :pray:",
 					"by": "Richa"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"53222463667343340": {
@@ -4389,14 +4103,11 @@
 		"name": "Chase Chapman",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Chase Chapman has joined the channel", "by": "Chase Chapman" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"8542799639511646": {
@@ -4406,11 +4117,11 @@
 		"name": "Roy",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Roy has joined the channel", "by": "Roy" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"2957299819053056": {
@@ -4420,11 +4131,11 @@
 		"name": "brad kam",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "brad kam has joined the channel", "by": "brad kam" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"50875720924656750": {
@@ -4434,14 +4145,11 @@
 		"name": "Anne Connelly",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Anne Connelly has joined the channel", "by": "Anne Connelly" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"27716257490934640": {
@@ -4451,11 +4159,11 @@
 		"name": "andrej",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "andrej has joined the channel", "by": "andrej" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"15098890748342758": {
@@ -4467,7 +4175,6 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "ken has joined the channel", "by": "ken" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
@@ -4481,12 +4188,12 @@
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 4
+			"count": 3
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 4 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
 		]
 	},
 	"64012386227388050": {
@@ -4557,18 +4264,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Anubhav Girdhar has joined the channel", "by": "Anubhav Girdhar" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"49955019436284920": {
@@ -4578,11 +4284,11 @@
 		"name": "Chucky",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Chucky has joined the channel", "by": "Chucky" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"10661770028892876": {
@@ -4592,14 +4298,11 @@
 		"name": "Gerry Migwi",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Gerry Migwi has joined the channel", "by": "Gerry Migwi" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"35377818538711172": {
@@ -4619,15 +4322,14 @@
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				},
-				{ "message": "Thank you, Jo-Ann A. Hamilton and Sachin Mittal!", "by": "Leon Erichsen" },
-				{ "message": "Jo-Ann A. Hamilton has joined the channel", "by": "Jo-Ann A. Hamilton" }
+				{ "message": "Thank you, Jo-Ann A. Hamilton and Sachin Mittal!", "by": "Leon Erichsen" }
 			],
-			"count": 4
+			"count": 3
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Vivek" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 4 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
 		]
 	},
 	"47130838614799496": {
@@ -4637,11 +4339,11 @@
 		"name": "Rob",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Rob has joined the channel", "by": "Rob" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"59409989359980580": {
@@ -4653,18 +4355,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Doug Molina has joined the channel", "by": "Doug Molina" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"69996978675592296": {
@@ -4674,14 +4375,11 @@
 		"name": "Julian Traversa",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Julian Traversa has joined the channel", "by": "Julian Traversa" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"40844465272540640": {
@@ -4697,7 +4395,6 @@
 					"message": "This was great! Thanks to Vivek Singh and Sachin Mittal for putting this on. Was great working with amazing teams and meeting awesome people, such as ry Rasikh Morani val Martinet Lee Benjamin Stanley Sajida Zouarhi Ganesh Swami Hudson Jameson!",
 					"by": "Mike De'Shazer"
 				},
-				{ "message": "Hudson Jameson has joined the channel", "by": "Hudson Jameson" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
@@ -4715,12 +4412,12 @@
 					"by": "Amy of BFLO"
 				}
 			],
-			"count": 6
+			"count": 5
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 6 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 5 }
 		]
 	},
 	"27784241534752140": {
@@ -4730,14 +4427,11 @@
 		"name": "Marko Prljic",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Marko Prljic has joined the channel", "by": "Marko Prljic" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"66813617797156500": {
@@ -4747,11 +4441,11 @@
 		"name": "Gyan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Gyan has joined the channel", "by": "Gyan" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"16934566797827886": {
@@ -4803,20 +4497,16 @@
 		"gratitude": {
 			"received": [
 				{
-					"message": "Tarun Gupta - Simplifying Crypto Payroll at Parcel has joined the channel",
-					"by": "Tarun Gupta - Simplifying Crypto Payroll at Parcel"
-				},
-				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"49449533658622824": {
@@ -4826,11 +4516,11 @@
 		"name": "Francis",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Francis has joined the channel", "by": "Francis" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"21260284646717640": {
@@ -4840,11 +4530,11 @@
 		"name": "Mulili",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Mulili has joined the channel", "by": "Mulili" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"49444422007384950": {
@@ -4868,16 +4558,11 @@
 		"name": "Jason - wildcards.world",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [
-				{ "message": "Jason - wildcards.world has joined the channel", "by": "Jason - wildcards.world" }
-			],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"15670582796939398": {
@@ -4887,11 +4572,11 @@
 		"name": "Edu",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Edu has joined the channel", "by": "Edu" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"46898529907938780": {
@@ -4915,14 +4600,11 @@
 		"name": "Will Broadway",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Will Broadway has joined the channel", "by": "Will Broadway" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"3825527922538367": {
@@ -4932,11 +4614,11 @@
 		"name": "Guillermo",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Guillermo has joined the channel", "by": "Guillermo" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"69933583002515170": {
@@ -4974,14 +4656,11 @@
 		"name": "Harsh Rajat",
 		"award": "",
 		"testimonial": "Duplication - see row 27",
-		"gratitude": {
-			"received": [{ "message": "Harsh Rajat has joined the channel", "by": "Harsh Rajat" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Duplication - see row 27" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"69944333309627280": {
@@ -4991,11 +4670,11 @@
 		"name": "nich",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "nich has joined the channel", "by": "nich" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"32448193104252508": {
@@ -5005,14 +4684,11 @@
 		"name": "Edgar Aroutiounian",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Edgar Aroutiounian has joined the channel", "by": "Edgar Aroutiounian" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"6206695061700672": {
@@ -5027,15 +4703,14 @@
 				{
 					"message": "Thankful to every single one of you. Happy to have found my soul family. Until now I felt out of place in life.\n\nThank you Vivek Singh  for inviting me to kernel on that ocean presentation day. And thank you for constantly uplifting me exactly when I need it the most. Thank you for writing to Alex\n\nThank you Sachin Mittal for your convos with me and for your support and trust\n\nThank you cryptowanderer for being the most special and unique soul I’ve ever met :heart:\n\nThank you Alex Masmej  for being so extraordinary and finding the time to meet. I want more ;)))\n\nThank you Octavian Todirut for the sick Kernel swag design\n\nThank you Kevin Owocki  for GitCoin. I’d be stuck in miserable finance world without you\n\nThank you Simona Pop for helping me with the designs organisation\n\nThank you Veronica Coutts for your help with my bonding curve. Please DM me I’ll send you some NAZ :)\n\nThank you Wildcards team, and especially Jason for the tip about front running resistance\n\nThank you Manank Patni  for your sweet Figma design\n\nThank you wschwab for great convos and being the first one to clap to my primitives ;)\n\nThank you EVERYONE. I deeply love and appreciate you all. If at any point I can be of any service to you. Summon me ;) twitter: @AlgorithmicBot. Telegram: nazariyv\n\nAnd most importantly, thank you The V (Vitalik Buterin, right?), without you, none of us would be here. You should be a role model for everyone. If I can be of any service to you at all, I’d be overwhelmed with joy to help. Lots of love everyone. You will all succeed and make this world much much better!",
 					"by": "Nazariy Vavryk"
-				},
-				{ "message": "Alex Masmej has joined the channel", "by": "Alex Masmej" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"70284469575791580": {
@@ -5045,11 +4720,11 @@
 		"name": "mlnck",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "mlnck has joined the channel", "by": "mlnck" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"9545047301753600": {
@@ -5059,14 +4734,11 @@
 		"name": "Francis Mendoza",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Francis Mendoza has joined the channel", "by": "Francis Mendoza" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"29623492759376664": {
@@ -5076,14 +4748,11 @@
 		"name": "Patrick Collins",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Patrick Collins has joined the channel", "by": "Patrick Collins" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"1970847779139298": {
@@ -5093,14 +4762,11 @@
 		"name": "Piotr Yordanov",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Piotr Yordanov has joined the channel", "by": "Piotr Yordanov" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"52222276789221620": {
@@ -5110,14 +4776,11 @@
 		"name": "Sanchay Mittal",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Sanchay Mittal has joined the channel", "by": "Sanchay Mittal" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"51822384410266300": {
@@ -5127,14 +4790,11 @@
 		"name": "Marc Zeller",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Marc Zeller has joined the channel", "by": "Marc Zeller" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"48801026149721420": {
@@ -5144,14 +4804,11 @@
 		"name": "Alisa March",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Alisa March has joined the channel", "by": "Alisa March" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"4484472051851701": {
@@ -5161,14 +4818,11 @@
 		"name": "Coopahtroopa",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Coopahtroopa has joined the channel", "by": "Coopahtroopa" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"63486910639035920": {
@@ -5178,14 +4832,11 @@
 		"name": "Eden Dhaliwal",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Eden Dhaliwal has joined the channel", "by": "Eden Dhaliwal" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"58877932914448770": {
@@ -5197,18 +4848,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Leon Erichsen has joined the channel", "by": "Leon Erichsen" },
 				{
 					"message": "Grateful to have Leon Erichsen as a mentor for #TeamRareBirds. Great conversation with lots of suggestions and support. I look forward to having him support us as we navigate this journey in radical markets. Special thanks to Sachin Mittal for marking this connection. :heart:",
 					"by": "Jo-Ann A. Hamilton"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"67787991095390790": {
@@ -5218,14 +4868,11 @@
 		"name": "Charlie Mack",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Charlie Mack has joined the channel", "by": "Charlie Mack" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"4134384508274972": {
@@ -5235,11 +4882,11 @@
 		"name": "whizwang",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "whizwang has joined the channel", "by": "whizwang" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"38291372319483800": {
@@ -5249,14 +4896,11 @@
 		"name": "Rio Button",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Rio Button has joined the channel", "by": "Rio Button" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"38704459615005656": {
@@ -5296,18 +4940,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Chris Meisl has joined the channel", "by": "Chris Meisl" },
 				{
 					"message": "Hello KERNELERS!\n\nYesterday <https://kernel-community.slack.com/archives/C016JL4385C/p1597168559023300|evening>, we had a match-made-in-heaven :cloud: Junto with 2 esteemed guests speakers, Chris Meisl (CTO) from <https://www.blocknative.com/|Blocknative> and Ganesh Swami (CEO) from <https://www.covalenthq.com/|Covalent>.  The following two case studies / pre-reads were recommended and helped aid the lively discussion.\n1. <https://blog.blocknative.com/blog/mempool-forensics|Mempool forensics> :bowl_with_spoon: \n2. <https://www.covalenthq.com/blog/covalent-defi-sdk/|Covalent SDK> :alembic: \nWhile Chris explored the ideas of _value in motion_  :star2:  covering mempool traffic :vertical_traffic_light: analytics and notifications :1234: with us. Ganesh balanced the remaining from where Chris left off by exploring _value at rest_ :cake: with smart-contracts &amp; transactions analytics.\n\nWe also gained valuable insights on historically underlooked mempool data while taking into consideration the performance of the different kinds of nodes in the Ethereum :city_sunset: network including but not limited to how they skew any assumptions on transaction (type) distribution that we might make. Active nonce :1234: and gas price :fuelpump: management for stuck, pending and dropped, mempool transaction :swimmer: and block explorers :building_construction: data stores. We further explored on-chain data usage for delivering insights by restructuring it into a consumable formats while covering topics like EVM  :nerd_face: optimisations, performance considerations in DB latency vs verifiability :checkered_flag: rollups :space_invader: vs single row :table_tennis_paddle_and_ball: lookups, OLTP and OLAP databases, and DB primitives :construction_worker:. The overarching theme was on how we could bridge the legacy DB :steam_locomotive: world onto blockchain :bullettrain_front: and how the technologies we’re building could aid that vision.\n\nEffectively this junto covered the entire spectrum of the happenings in the life of an Ethereum transaction :money_with_wings: and the value that it carries every step of the way. :roller_coaster: I  would highly recommend reaching out to the mentors for anything (even remotely) related to data on blockchain and look forward to our next Junto on one or more of the discussed specifics. Sachin Mittal thanks a ton for organising this and to all the participants for engaging! One of the best Junto’s for me personally... :fire: :fireworks: :seedling:",
 					"by": "Pranay Valson"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"18576721066867876": {
@@ -5317,11 +4960,11 @@
 		"name": "z herring",
 		"award": "",
 		"testimonial": "Vivek or Sachin",
-		"gratitude": { "received": [{ "message": "z herring has joined the channel", "by": "z herring" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Vivek or Sachin" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"48872296922617810": {
@@ -5353,11 +4996,11 @@
 		"name": "ducky",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "ducky has joined the channel", "by": "ducky" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"34987981795108800": {
@@ -5367,14 +5010,11 @@
 		"name": "Paul Nesteruk",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Paul Nesteruk has joined the channel", "by": "Paul Nesteruk" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"64312965826034850": {
@@ -5384,14 +5024,11 @@
 		"name": "Auryn Macmillan",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Auryn Macmillan has joined the channel", "by": "Auryn Macmillan" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"10321401625503758": {
@@ -5407,18 +5044,17 @@
 					"message": "i remember Austin Griffith whaling out with xDAI at ETHDENVER 2018 with the food trucks. simpler times :grinning:",
 					"by": "Vivek Singh"
 				},
-				{ "message": "Austin Griffith has joined the channel", "by": "Austin Griffith" },
 				{
 					"message": "Wanted to say thanks to Austin Griffith, I've learned a lot from watching the eth.build videos and by diving into the burner wallet and eth.build code: <https://github.com/austintgriffith/eth.build> :pray:",
 					"by": "Paul Gadi"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Vivek" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"56475922205798190": {
@@ -5428,11 +5064,11 @@
 		"name": "Darien",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Darien has joined the channel", "by": "Darien" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"46009617546041790": {
@@ -5442,14 +5078,11 @@
 		"name": "Abhimanyu Shekhawat",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Abhimanyu Shekhawat has joined the channel", "by": "Abhimanyu Shekhawat" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"13640792746957076": {
@@ -5461,18 +5094,17 @@
 		"testimonial": "Vivek",
 		"gratitude": {
 			"received": [
-				{ "message": "Juan Benet has joined the channel", "by": "Juan Benet" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Vivek" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"2796260738020673": {
@@ -5501,15 +5133,14 @@
 				{
 					"message": "So many people to thank here, I’d like to express gratitude towards people that keep this community alive. \nVivek Singh: for hosting weekly sessions, mentorship, connecting us with wonderful people in this space and for being a friend. \nSachin Mittal: for intros, office hours, resources and your support to our project. \nHolly Grimm: for guiding us to build generative artwork, supporting Coinvise and working on an impactful project.\ncryptowanderer: Your thoughts on building communities, blue book and ideas inspire me. \nHarsh Rajat: for helping us setup Coinvise and supporting us all the way\nZayi Reyes, christina, Mekyle Naidoo Alexander Yoseph, pet3rpan and many more. You guys have helped me in some way throughout this journey, I’m thankful for it. Hoping to stay connected with this community in future, and contribute in any way I can. ",
 					"by": "Jenil Thakker"
-				},
-				{ "message": "christina has joined the channel", "by": "christina" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"25067424658013896": {
@@ -5555,11 +5186,11 @@
 		"name": "Ruby Chen",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Ruby Chen has joined the channel", "by": "Ruby Chen" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"26007172604580580": {
@@ -5569,14 +5200,11 @@
 		"name": "Brian Flynn",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Brian Flynn has joined the channel", "by": "Brian Flynn" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"45258727778098050": {
@@ -5586,14 +5214,11 @@
 		"name": "Reed McGinley-Stempel",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Reed McGinley-Stempel has joined the channel", "by": "Reed McGinley-Stempel" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"11824345177331272": {
@@ -5603,14 +5228,11 @@
 		"name": "Razvan Gabriel Apostu",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Razvan Gabriel Apostu has joined the channel", "by": "Razvan Gabriel Apostu" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"68130192082730390": {
@@ -5620,14 +5242,11 @@
 		"name": "davit akobia",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "davit akobia has joined the channel", "by": "davit akobia" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"12676530698640084": {
@@ -5646,15 +5265,14 @@
 				{
 					"message": "Dandelion -- Kris Decoodt mentioned you're looking to test.... <http://cicolab.org|cicolab.org> definitely interested, ready :slightly_smiling_face:\nthx Vivek Singh!  + Angela Gilhotra, ears open",
 					"by": "Charles Blass"
-				},
-				{ "message": "Dandelion has joined the channel", "by": "Dandelion" }
+				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "Vivek" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"38579863193627520": {
@@ -5664,14 +5282,11 @@
 		"name": "Rashan Smith",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Rashan Smith has joined the channel", "by": "Rashan Smith" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"3244580449841015": {
@@ -5681,11 +5296,11 @@
 		"name": "joewesley",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "joewesley has joined the channel", "by": "joewesley" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"45354718530314230": {
@@ -5701,18 +5316,17 @@
 					"message": "Deep gratitude from BFLO team for your insights and support \n\nSuper grateful to our team Akanksha Bhattachan acolytec3 Jared Childers Gary Fitts Miranda Baghashvili, the other amazing fellows who contributed insight  Milensu Kapaipi [DEACTIVATED] Eman Herawy Ben Lakoff Simona Pop John IV Harsh Rajat Alex Thomas Mark Muskardin\nAnd for the Kernel creators whose hearts and minds are full of brilliant goodness Sachin Mittal Vivek Singh cryptowanderer \nAnd the mentors for taking time Hudson Jameson Mark B ken \n\nIt’s a wonderful experience I am so glad I was able to be a part of",
 					"by": "Amy of BFLO"
 				},
-				{ "message": "Mark B has joined the channel", "by": "Mark B" },
 				{
 					"message": "Really grateful for last week's Juntos :pray: It's really inspiring to learn from you wise wonderful fellows!  Thanks to Wade Mark B James Young Simona Pop and everyone else :raised_hands:",
 					"by": "Paul Gadi"
 				}
 			],
-			"count": 3
+			"count": 2
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "We love you so very much Mark. Keep being the being you are." },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 3 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
 		]
 	},
 	"65113902373689464": {
@@ -5722,14 +5336,11 @@
 		"name": "Martin Valentino",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Martin Valentino has joined the channel", "by": "Martin Valentino" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"25227537827301360": {
@@ -5739,14 +5350,11 @@
 		"name": "Frank Chen",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Frank Chen has joined the channel", "by": "Frank Chen" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"70953823299967800": {
@@ -5756,14 +5364,11 @@
 		"name": "Tate Berenbaum",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Tate Berenbaum has joined the channel", "by": "Tate Berenbaum" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"40585776931874770": {
@@ -5773,14 +5378,11 @@
 		"name": "Jess Sloss",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Jess Sloss has joined the channel", "by": "Jess Sloss" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"65289180164459096": {
@@ -5790,11 +5392,11 @@
 		"name": "Sishir",
 		"award": "",
 		"testimonial": "",
-		"gratitude": { "received": [{ "message": "Sishir has joined the channel", "by": "Sishir" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"62388908501950456": {
@@ -5804,14 +5406,14 @@
 		"name": "Sam Hatem",
 		"award": "",
 		"testimonial": "Dearest Sam. Thank you for your commitment and for bringing us into many conversations we would never otherwise have had. Your contribution to Kernel has been unique and we look forward to many collaborations in the years to come.",
-		"gratitude": { "received": [{ "message": "Sam Hatem has joined the channel", "by": "Sam Hatem" }], "count": 1 },
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{
 				"trait_type": "testimonial",
 				"value": "Dearest Sam. Thank you for your commitment and for bringing us into many conversations we would never otherwise have had. Your contribution to Kernel has been unique and we look forward to many collaborations in the years to come."
 			},
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"21731919518303304": {
@@ -5821,14 +5423,11 @@
 		"name": "emily isabelle davies",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "emily isabelle davies has joined the channel", "by": "emily isabelle davies" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"25965072283183500": {
@@ -5838,14 +5437,11 @@
 		"name": "Aaron Mahlke",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Aaron Mahlke has joined the channel", "by": "Aaron Mahlke" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"9912021885953216": {
@@ -5857,18 +5453,17 @@
 		"testimonial": "",
 		"gratitude": {
 			"received": [
-				{ "message": "Danny Zuckerman has joined the channel", "by": "Danny Zuckerman" },
 				{
 					"message": "Thanks to the Kernel Team, Mentors and awesome fellows. All of you have helped us shape some of the major decisions about our project and the way to take it forward :rocket:. I am grateful to all of you and see the relationships I build here to last forever. Deep gratitude and thanks to all of you, proud to have connected with (and learned from) Vivek Singh cryptowanderer Sachin Mittal Andrew Redden Luka Simona Pop Thomas Klocanas Linda Xie Amy of BFLO Tony Sheng [DEACTIVATED] Denham - Wildcards Tarun Gupta - Simplifying Crypto Payroll at Parcel Anubhav Girdhar Jo-Ann A. Hamilton Hudson Jameson Juan Benet Doug Molina Alex Salnikov 'Rarible Ganesh Swami Robin Davids Ben Dawid (dawg) Deepcryptodive - Giel Detienne Nazzareno Massari Chris Furlong Danny Zuckerman ken Kevin Owocki Scott Moore, I do think am definitely missing some names here so will probably edit it in sometime :sweat_smile:.",
 					"by": "Harsh Rajat"
 				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"9029819285301196": {
@@ -5897,15 +5492,14 @@
 				{
 					"message": "Hello Kernel family! Really should have done this before now, but sure it's for the best! Special thanks to Vivek Singh Sachin Mittal for creating this programme, words can tell how happy I am for participating in the programme. Thanks for Harsh Rajat Richa Jo-Ann A. Hamilton for the direct support, advice and contribution to make Kernel worthwhile. Big hug to Katongole Allan for becoming a team mate and helping build and grow Web3Bridge and much more big thanks to Marek Laskowski our midway demo day mentor turning Advisor! With his support, we have since we met him have a lot of speed and looking out for the big news. For everyone who we have interacted with, supported us and gave a very great review Simona Pop Eman Herawy Sonia John Andrew Redden Maged M. Eljazzar Manuel Gonzalez Alzuru Bernardo, really can't keep tagging everyone! Big ups and we should all catch up soon",
 					"by": "Awosika Ayodeji"
-				},
-				{ "message": "Marek Laskowski has joined the channel", "by": "Marek Laskowski" }
+				}
 			],
-			"count": 2
+			"count": 1
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 2 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
 		]
 	},
 	"1386505247211389": {
@@ -5915,14 +5509,11 @@
 		"name": "Andrew Hill",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Andrew Hill has joined the channel", "by": "Andrew Hill" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"54308126027748950": {
@@ -5960,14 +5551,11 @@
 		"name": "Alok Vasudev",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Alok Vasudev has joined the channel", "by": "Alok Vasudev" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"37967345502613740": {
@@ -5977,14 +5565,11 @@
 		"name": "Justin Dorfman",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Justin Dorfman has joined the channel", "by": "Justin Dorfman" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"35454015403177004": {
@@ -6302,14 +5887,11 @@
 		"name": "Carson Farmer",
 		"award": "",
 		"testimonial": "",
-		"gratitude": {
-			"received": [{ "message": "Carson Farmer has joined the channel", "by": "Carson Farmer" }],
-			"count": 1
-		},
+		"gratitude": { "received": [], "count": 0 },
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 1 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
 	"18068869000331990": {
@@ -6560,10 +6142,6 @@
 		"gratitude": {
 			"received": [
 				{
-					"message": "Angela Gilhotra has renamed the channel from \"gratitude\" to \"kernel-gratitude\"",
-					"by": "Angela Gilhotra"
-				},
-				{
 					"message": "two of our very own KERNEL Stewards deserve much gratitude for much of their work, seen and unseen :seedling:\n\n• Angela Gilhotra — You joined the KERNEL Stewards after participating in Genesis Block and I couldn’t imagine a Block II without you! Through planning for kickoff, ensuring weekly sessions were set, planning Commit-Reveal, SourceCred experiments, to announcing Block III, you managed to bring a sense of joy to your work. *Especially* when it comes to Slack workflows. Excited for the special projects you bring to life next :slightly_smiling_face:  \n• Sachin Mittal — For those who don’t know, KERNEL began at all because of an initial cold e-mail from Sachin. He didn’t know what he was signing up for when cryptowanderer and I really got going :stuck_out_tongue: through it all, he’s been both the brains and the hands behind the scenes making things happen. I appreciate your willingness to deal with me through ups and downs and for consistently keeping the KERNEL Fellows in your mind. I look forward to exploring our ability to <https://kernel.community/module-7/scale-ability/#the-logical-evolution-of-decentralization|scale-ability> over blocks to come :bricks: \nYou both have many gifts to give and I’m grateful to you for the ones given and for the ideas you’ll bring to life from here :gift:",
 					"by": "Vivek Singh"
 				},
@@ -6584,12 +6162,12 @@
 					"by": "Charles Blass"
 				}
 			],
-			"count": 6
+			"count": 5
 		},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
 			{ "trait_type": "testimonial", "value": "" },
-			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 6 }
+			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 5 }
 		]
 	},
 	"64819495390971150": {

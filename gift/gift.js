@@ -117,6 +117,7 @@ async function gift() {
           _m = _m.replace(match[0], name)
         }
       }
+      if (user == m.user) continue;
       categorized[user].push({
         message: _m,
         by: allUsers["userIdToNames"][m.user]
