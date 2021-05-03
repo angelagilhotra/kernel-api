@@ -7,6 +7,7 @@ const routes = require('./routes')
 // initialise app
 const app = express()
 app.use(express.static('./gift/images'))
+app.use(express.static('./gift/static'))
 app.use(bodyParser.urlencoded({extended: true}))
 app.use(bodyParser.json({ limit: '50mb' }))
 app.use(cors())
