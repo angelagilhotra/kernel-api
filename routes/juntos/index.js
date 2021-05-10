@@ -33,7 +33,7 @@ routes.post('/new', async (req, res) => {
     .replace("<rsvp_url>", rsvp_url)
   let r
   try {
-    r = await web.chat.postMessage({channel: "#testing", "blocks": message_blocks})
+    r = await web.chat.postMessage({channel: "#kernel-juntos", "blocks": message_blocks})
   } catch (err) {
     console.log (err)
   }
