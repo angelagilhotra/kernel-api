@@ -16,7 +16,7 @@
 4. add network config to `hardhat.config.js`
 5. `npx hardhat run --network <network> scripts/deploy.js`
 6. copy contract address and paste in `gift/scripts/contract.js`
-8. to flatten `npx hardhat flatten > flattened.sol`
-7. cd to root of directory
+7. to flatten `npx hardhat flatten > flattened.sol`
+8. cd to root of directory
 9. `node gift/sripts/updateContract`
 10. update `gift/scripts/contract.js` to add new network & set active to the required network

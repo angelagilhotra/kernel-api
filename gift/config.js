@@ -1,5 +1,5 @@
 module.exports = {
-  env: "staging",
+  env: "prod",
   local: {
     server: "http://localhost:3000",
     frontend: "http://localhost:8080"
@@ -9,7 +9,7 @@ module.exports = {
     frontend: "https://gratitude.kernel.community"
   },
   prod: {
-    domain: "https://api.kernel.community",
+    server: "https://api.kernel.community",
     frontend: "https://gratitude.kernel.community"
   }
 };
