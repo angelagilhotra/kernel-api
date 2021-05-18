@@ -32,12 +32,12 @@ routes.post('/new', async (req, res) => {
     .replace("<junto_title>", data.event_details.title? data.event_details.title : "")
     .replace("<junto_description>", description)
     .replace("<rsvp_url>", rsvp_url)
-  let r = {ok: true}
-  // try {
-    // r = await web.chat.postMessage({channel: "#kernel-juntos", "blocks": message_blocks})
-  // } catch (err) {
-    // console.log (err)
-  // }
+  // let r = {ok: true}
+  try {
+    r = await web.chat.postMessage({channel: "#kernel-juntos", "blocks": message_blocks})
+  } catch (err) {
+    console.log (err)
+  }
 
   if (r.ok) {
     res.send({
