@@ -23,20 +23,21 @@ routes.post('/new', async (req, res) => {
   const rsvp_url = base_rsvp_url + "/rsvp/" + data.record_id
   let description = ""
   if (data.event_details.description) {
-    description = data.event_details.description.substring(0,135) + " ... "
+    description = data.event_details.description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ").substring(0,200) + " ... "
   }
+  console.log ("description:", description);
   let message_blocks = JSON.stringify(blocks)
   message_blocks = message_blocks
     .replace("<junto_proposer>", data.event_details.proposer? data.event_details.proposer : "")
     .replace("<junto_title>", data.event_details.title? data.event_details.title : "")
     .replace("<junto_description>", description)
     .replace("<rsvp_url>", rsvp_url)
-  let r
-  try {
-    r = await web.chat.postMessage({channel: "#kernel-juntos", "blocks": message_blocks})
-  } catch (err) {
-    console.log (err)
-  }
+  let r = {ok: true}
+  // try {
+    // r = await web.chat.postMessage({channel: "#kernel-juntos", "blocks": message_blocks})
+  // } catch (err) {
+    // console.log (err)
+  // }
 
   if (r.ok) {
     res.send({
