@@ -4,7 +4,7 @@
 			"type": "section",
 			"text": {
 				"type": "mrkdwn",
-				"text": "Hi there! *<junto_proposer>* has proposed a new junto"
+				"text": "*<junto_proposer>* has proposed a new junto!"
 			}
 		},
 		{
@@ -32,6 +32,9 @@
           "url": "<rsvp_url>"
 				}
 			]
+		},
+    {
+			"type": "divider"
 		}
 	]
 }
