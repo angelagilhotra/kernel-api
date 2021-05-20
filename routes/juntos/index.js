@@ -21,11 +21,15 @@ routes.post('/new', async (req, res) => {
     'event_id', 
     'record_id'])
   const rsvp_url = base_rsvp_url + "/rsvp/" + data.record_id
-  let description = ""
-  if (data.event_details.description) {
-    description = data.event_details.description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ").substring(0,200) + " ... "
+  
+  let description = data.event_details.description ? data.event_details.description : ""
+
+  description = data.event_details.description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ")
+
+  if (description.length > 200) {
+    description = description.substring(0,200) + "..."
   }
-  console.log ("description:", description);
+  // console.log ("description:", description);
   let message_blocks = JSON.stringify(blocks)
   message_blocks = message_blocks
     .replace("<junto_proposer>", data.event_details.proposer? data.event_details.proposer : "")
