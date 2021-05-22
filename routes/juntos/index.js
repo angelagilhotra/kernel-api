@@ -23,9 +23,12 @@ routes.post('/new', async (req, res) => {
   const rsvp_url = base_rsvp_url + "/rsvp/" + data.record_id
 
   let description = data.event_details.description ? data.event_details.description : ""
-
-  description = data.event_details.description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ")
-  let title = data.event_details.title ? data.event_details.title.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g,"") : ""
+  let title = data.event_details.title ? data.event_details.title : ""
+  let proposer = data.event_details.proposer? data.event_details.proposer : ""
+  
+  description = description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ")
+  title = title.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g,"")
+  proposer = proposer.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g,"")
 
   if (description.length > 200) {
     description = description.substring(0,200) + "..."
@@ -33,7 +36,7 @@ routes.post('/new', async (req, res) => {
   // console.log ("description:", description);
   let message_blocks = JSON.stringify(blocks)
   message_blocks = message_blocks
-    .replace("<junto_proposer>", data.event_details.proposer? data.event_details.proposer : "")
+    .replace("<junto_proposer>", proposer)
     .replace("<junto_title>", title)
     .replace("<junto_description>", description)
     .replace("<rsvp_url>", rsvp_url)
