@@ -91,6 +91,21 @@
           "type": "plain_text",
           "text": "Job Location"
         }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "job_type",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Job Type"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Job Type"
+        }
       }
     ]
 	}

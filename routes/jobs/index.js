@@ -22,7 +22,8 @@ routes.post("/new", async(req, res) => {
       url: inputs["job_url"].value,
       contact_person_name: inputs["contact_person_name"].value,
       contact_person_email: inputs["contact_person_email"].value,
-      location: inputs["job_location"].value
+      location: inputs["job_location"].value,
+      type: inputs["job_type"].value
     }
     // console.log  (inputs)
     // console.log ("---")
@@ -36,7 +37,8 @@ routes.post("/new", async(req, res) => {
           "Contact Person Name (Slack User)": job.contact_person_name,
           "Contact Person Email (Slack User)": job.contact_person_email,
           "Job URL": job.url,
-          "Location": job.location
+          "Location": job.location,
+          "Job type": job.type
         }
       }
     ], function (err, records) {
