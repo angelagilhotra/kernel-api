@@ -1,0 +1,67 @@
+{
+	"view": {
+		"type": "workflow_step",
+		"blocks": [
+			{
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "offer_description",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "offer description"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "offer description"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "link_to_scheduler",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "link_to_scheduler"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "link_to_scheduler"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "name",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "name"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "name"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "email",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "email"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "email"
+        }
+      }
+    ]
+	}
+}
