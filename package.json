@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@notionhq/client": "^0.1.8",
     "@openzeppelin/contracts": "^4.0.0",
     "@slack/web-api": "^6.1.0",
     "airtable": "^0.10.1",
