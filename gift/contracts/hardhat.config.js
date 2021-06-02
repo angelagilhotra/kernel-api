@@ -25,6 +25,14 @@ module.exports = {
     mainnet: {
       url: infura.replace("<network>", "mainnet"),
       accounts: [_pk]
+    },
+    mumbai: {
+      url: "https://rpc-mumbai.maticvigil.com/",
+      accounts: [_pk]
+    },
+    matic: {
+      url: "https://rpc-mainnet.maticvigil.com/",
+      accounts: [_pk]
     }
   },
   solidity: "0.8.3",

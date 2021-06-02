@@ -32,5 +32,27 @@ module.exports = {
     txHashLink: "https://mainnet.etherscan.io/tx/<transaction>",
     addressLink: "https://mainnet.etherscan.io/address/<address>"
   },
-  active: "mainnet"
+  matic: {
+    name: "MATIC Mainnet",
+    currency: "MATIC",
+    address: "0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f",
+    rpc: "https://rpc-mainnet.maticvigil.com/",
+    chainId: 137,
+    txHashLink:
+      "https://explorer-mainnet.maticvigil.com/tx/<transaction>/token-transfers",
+    addressLink: "https://explorer-mainnet.maticvigil.com/address/<address>",
+    blockExplorerUrls: ["https://explorer-mainnet.maticvigil.com/"]
+  },
+  mumbai: {
+    name: "MATIC Mumbai",
+    currency: "MATIC",
+    address: "0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f",
+    rpc: "https://rpc-mumbai.maticvigil.com/",
+    chainId: 80001,
+    txHashLink:
+      "https://explorer-mumbai.maticvigil.com/tx/<transaction>/token-transfers",
+    addressLink: "https://explorer-mumbai.maticvigil.com/address/<address>",
+    blockExplorerUrl: "https://explorer-mumbai.maticvigil.com/"
+  },
+  active: "matic"
 };
