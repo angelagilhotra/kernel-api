@@ -450,8 +450,8 @@
 		"image": "https://api.kernel.community/58091760225427980.png",
 		"external_url": "https://gratitude.kernel.community/c/ce6225ec9d2211e0241beeb8e0b8a252cddcf71ee8ef395dcff8ec493d3449a4",
 		"name": "wschwab",
-		"award": "A Debt of Gratitude",
-		"testimonial": "Shalom William. Thank you for the commitment you have shown and the clarity you have brought with you into KERNEL. So much of what we do will benefit from your presence, and we look forward to many more deep explorations of truth with you. https://kernel-community.slack.com/archives/C016X4LLD9T/p1595829588407700",
+		"award": "A Debt of Gratitude - https://kernel-community.slack.com/archives/C016X4LLD9T/p1595829588407700",
+		"testimonial": "Shalom William. Thank you for the commitment you have shown and the clarity you have brought with you into KERNEL. So much of what we do will benefit from your presence, and we look forward to many more deep explorations of truth with you.",
 		"gratitude": {
 			"received": [
 				{
@@ -1134,12 +1134,15 @@
 		"image": "https://api.kernel.community/19501253946954950.png",
 		"external_url": "https://gratitude.kernel.community/c/454849822ed4c957300ebc42b49c548badfad08ca16f182052a80bad9fc5bae1",
 		"name": "zach",
-		"award": "",
-		"testimonial": "",
+		"award": "Web3 Pioneer",
+		"testimonial": "Forever grateful - for mentoring me in the beginning of my Web3 journey, and sharing your wisdom to KERNEL.  Be it on Idea Validation & Prototyping.",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "Web3 Pioneer" },
+			{
+				"trait_type": "testimonial",
+				"value": "Forever grateful - for mentoring me in the beginning of my Web3 journey, and sharing your wisdom to KERNEL.  Be it on Idea Validation & Prototyping."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -1904,11 +1907,14 @@
 		"external_url": "https://gratitude.kernel.community/c/4c7a4a08db843aeb7abae7240dded14664b92bae6a8bb423fba2a5452df57f1d",
 		"name": "Anudit Nagar",
 		"award": "",
-		"testimonial": "Anudit, thank you for trusting me when I shared about KERNEL with you. Your potential and will to build amazing things is a great add on to your existing skillset. Hoping you keep building incredibly cool things in the future, until our paths cross again. (- Angela)",
+		"testimonial": "Anudit, thank you for trusting me when I shared about KERNEL with you. Your potential and will to build amazing things is a great add on to your existing skillset. Hoping you keep building incredibly cool things in the future, until our paths cross again. ( - Angela)",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Anudit, thank you for trusting me when I shared about KERNEL with you. Your potential and will to build amazing things is a great add on to your existing skillset. Hoping you keep building incredibly cool things in the future, until our paths cross again. ( - Angela)"
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -2695,11 +2701,14 @@
 		"external_url": "https://gratitude.kernel.community/c/1c6cca1dfea0ba7a07fc5a5c09458e235cb0e6d664231746b20689da3ff3a5cd",
 		"name": "Rob Secord",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Rob -- who would have guessed what might happen after Genesis Block? Thank you for all your contributions to KERNEL, starting first with your inquisitive and joyful spirit. Grateful.",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Rob -- who would have guessed what might happen after Genesis Block? Thank you for all your contributions to KERNEL, starting first with your inquisitive and joyful spirit. Grateful."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -2932,11 +2941,11 @@
 		"external_url": "https://gratitude.kernel.community/c/115f55ebc467c03d6efe7b95884368c85b850a45d9e8d5ae278b11c5d33e0710",
 		"name": "Simon Weniger",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "0",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "testimonial", "value": "0" },
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -4292,11 +4301,14 @@
 		"external_url": "https://gratitude.kernel.community/c/04450c1308c04b0b9c4a8993aa93388b966315b65e68dbfc464e947936c8d496",
 		"name": "Jennifer Tran",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Jennifer -- you inspire us often with your keen observations, KERNEL referrals, and work in the ecosystem. Forever grateful to you for joining us for Genesis Block. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Jennifer -- you inspire us often with your keen observations, KERNEL referrals, and work in the ecosystem. Forever grateful to you for joining us for Genesis Block. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -4533,12 +4545,18 @@
 		"image": "https://api.kernel.community/16934566797827886.png",
 		"external_url": "https://gratitude.kernel.community/c/3c29e61668df2e002ecd4c27a909409d14f8a7348f45a7705802aca1ac251c05",
 		"name": "Pranay Valson",
-		"award": "",
-		"testimonial": "",
+		"award": "The Joker - https://kernel-community.slack.com/archives/C0173F7UJ00/p1597397908495300",
+		"testimonial": "Dear Pranay. Thank you for your wonderful energy and devotion to Kernel. Your particular brand of humour and insight has helped improve the syllabus immensely. We look forward to many more collaborations.",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "award",
+				"value": "The Joker - https://kernel-community.slack.com/archives/C0173F7UJ00/p1597397908495300"
+			},
+			{
+				"trait_type": "testimonial",
+				"value": "Dear Pranay. Thank you for your wonderful energy and devotion to Kernel. Your particular brand of humour and insight has helped improve the syllabus immensely. We look forward to many more collaborations."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -4571,7 +4589,7 @@
 		"tokenId": 13404888686634664,
 		"image": "https://api.kernel.community/13404888686634664.png",
 		"external_url": "https://gratitude.kernel.community/c/2f9facdc6ba6a884949a568030f3ad02a09d67479620524131fbb14008e279e9",
-		"name": "Tarun Gupta",
+		"name": "Tarun Gupta - Simplifying Crypto Payroll at Parcel",
 		"award": "",
 		"testimonial": "Tarun -- lots of love to you for bringing your energy into KERNEL. Hope you are well and wishing Parcel all the best.",
 		"gratitude": {
@@ -5851,11 +5869,14 @@
 		"external_url": "https://gratitude.kernel.community/c/9097c4dcb09edcbacdef4943cc92b4a99872867fd0fed295a156084c71496ebe",
 		"name": "Shawn Cheng",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Shawn Cheng. Hiroshima lives with me forever. Your fundraising session set a new bar for a great KERNEL workshop. Endless gratitude for your support and friendship.",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Shawn Cheng. Hiroshima lives with me forever. Your fundraising session set a new bar for a great KERNEL workshop. Endless gratitude for your support and friendship."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -7635,12 +7656,15 @@
 		"image": "https://api.kernel.community/70915801237337224.png",
 		"external_url": "https://gratitude.kernel.community/c/fbf18ba5b6b48bb0dcfb1132eb10d4bdd09dbc394419ee75299b49635f1aa487",
 		"name": "Christopher Swenor",
-		"award": "",
-		"testimonial": "",
+		"award": "Reacher For The Stars",
+		"testimonial": "Chris - forever grateful to you for taking a chance on the program and slowly opening up thru many juntos and interviews :) always wishing you the best. ",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "Reacher For The Stars" },
+			{
+				"trait_type": "testimonial",
+				"value": "Chris - forever grateful to you for taking a chance on the program and slowly opening up thru many juntos and interviews :) always wishing you the best. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -7719,12 +7743,15 @@
 		"image": "https://api.kernel.community/71502272523134700.png",
 		"external_url": "https://gratitude.kernel.community/c/fe06f0225fe6f0dcbfb655562a43573b4ed89e07333eada9ff45f1d97a827444",
 		"name": "Rebecca Mqamelo",
-		"award": "",
-		"testimonial": "",
+		"award": "Grassroot Storyteller",
+		"testimonial": "Rebecca - you inspire KERNEL in countless ways! For bringing your unique name, stories, and spirit to the program, we are forever grateful. ",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "Grassroot Storyteller" },
+			{
+				"trait_type": "testimonial",
+				"value": "Rebecca - you inspire KERNEL in countless ways! For bringing your unique name, stories, and spirit to the program, we are forever grateful. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -7786,12 +7813,15 @@
 		"image": "https://api.kernel.community/67957466504942856.png",
 		"external_url": "https://gratitude.kernel.community/c/f16ef4aadcd509642f009b686f23796867ef3457c26f65ef387f787a2b673526",
 		"name": "bitsikka",
-		"award": "",
-		"testimonial": "",
+		"award": "(Anon) Kindred Spirit",
+		"testimonial": "Dearest bitsikka - never would I think I could feel so close to someone whose name I don't know. Thank you for your overflowing spirit, your mind-bending identity.",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "(Anon) Kindred Spirit" },
+			{
+				"trait_type": "testimonial",
+				"value": "Dearest bitsikka - never would I think I could feel so close to someone whose name I don't know. Thank you for your overflowing spirit, your mind-bending identity."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -7857,11 +7887,14 @@
 		"external_url": "https://gratitude.kernel.community/c/41b48dee3ab9a7595dba684f42b558dfcfe3984f69f1a1026bceb22ba6ff171b",
 		"name": "Mahoney Turnbull",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Mahoney - thank you for joining early for the Vitalik fireside, and for making your energy felt from halfway across the planet all thru KERNEL. It meant the world and we are grateful for it all. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Mahoney - thank you for joining early for the Vitalik fireside, and for making your energy felt from halfway across the planet all thru KERNEL. It meant the world and we are grateful for it all. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -7898,12 +7931,15 @@
 		"image": "https://api.kernel.community/10386300476819280.png",
 		"external_url": "https://gratitude.kernel.community/c/24e6490673874f4fb1f85156b0913356c9650fde03605da4234d250124af0c34",
 		"name": "adrianleb",
-		"award": "",
-		"testimonial": "",
+		"award": "Artist Unblocked",
+		"testimonial": "Dearest brother. What words suffice for those the soul already knows? You are such a special person and we all love you. Personally, I'm eternally grateful you gybed and ended up in St Marteen.",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "Artist Unblocked" },
+			{
+				"trait_type": "testimonial",
+				"value": "Dearest brother. What words suffice for those the soul already knows? You are such a special person and we all love you. Personally, I'm eternally grateful you gybed and ended up in St Marteen."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -7969,11 +8005,14 @@
 		"external_url": "https://gratitude.kernel.community/c/df384d18775069df6bf4e11a94d88422c1d3755c788797217c12389ba0842a1b",
 		"name": "Tannr Allard",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Tannr -- from Pictosis to formal verification, thank you for all your contributions to KB2. Wishing you all the best. We are always here if you need anything. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Tannr -- from Pictosis to formal verification, thank you for all your contributions to KB2. Wishing you all the best. We are always here if you need anything. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8025,11 +8064,14 @@
 		"external_url": "https://gratitude.kernel.community/c/45f1786fe246886e9e7d33156ea8c650b0ed932e00e3be98673aca68bb1e816e",
 		"name": "Nick Swekosky",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Nick, brother. Thank you for exploring Web 3 with us in KB2. We wish you the best in your journey's ahead and hope you've found. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Nick, brother. Thank you for exploring Web 3 with us in KB2. We wish you the best in your journey's ahead and hope you've found. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8039,11 +8081,14 @@
 		"external_url": "https://gratitude.kernel.community/c/9068a12de8a67824abf1e614786832c75d72f2847f264d13deeb28e81e7f70ca",
 		"name": "Garima Vyas",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Garima -- we appreciate you meandering thru KERNEL with us. Devin spoke so highly of you and we're happy it was a good experience. Always here as you explore Web 3 and anything else in your future! ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Garima -- we appreciate you meandering thru KERNEL with us. Devin spoke so highly of you and we're happy it was a good experience. Always here as you explore Web 3 and anything else in your future! "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8053,11 +8098,14 @@
 		"external_url": "https://gratitude.kernel.community/c/6f97cd33f153840a2c36165154d40b9862e6934f88cf856f78e965cf64f0b6d5",
 		"name": "Ann Willmott",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Ann -- I'll never forget your contributions to an early KB2 junto. Thank you for exploring with us and wish you all the best in your journey ahead. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Ann -- I'll never forget your contributions to an early KB2 junto. Thank you for exploring with us and wish you all the best in your journey ahead. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8161,12 +8209,15 @@
 		"image": "https://api.kernel.community/30088320606852570.png",
 		"external_url": "https://gratitude.kernel.community/c/6ae52b0da8d5d853695e6e2c93e7486b5beb7062a3bd04194dc69b60a68f455c",
 		"name": "Shreyas Hariharan",
-		"award": "",
-		"testimonial": "",
+		"award": "Resonator",
+		"testimonial": "Dear Shreyas. Thank you for being a part of Kernel and sharing some of your beautiful writing and work with us. We look forward to many more collaborations in the years to come.",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "Resonator" },
+			{
+				"trait_type": "testimonial",
+				"value": "Dear Shreyas. Thank you for being a part of Kernel and sharing some of your beautiful writing and work with us. We look forward to many more collaborations in the years to come."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8232,11 +8283,14 @@
 		"external_url": "https://gratitude.kernel.community/c/6b723cb0040723be211f735db6db73b7eacfb201d88487ceac40401cad37e78c",
 		"name": "Sebastian Pape",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Sebastian -- grateful to know such a strong leader, builder, and human. Excited for your future and for our friendship to grow along the way. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Sebastian -- grateful to know such a strong leader, builder, and human. Excited for your future and for our friendship to grow along the way. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8649,11 +8703,14 @@
 		"external_url": "https://gratitude.kernel.community/c/4fb2ddb8277864fdc6eb574879dfdbca7d2b7778d9b53d1bd2518671347c4711",
 		"name": "Will Hsieh",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Will -- thank you for taking a chance on KERNEL. Hoping for the best for you on your journey's ahead -- in fixed yield and beyond.",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Will -- thank you for taking a chance on KERNEL. Hoping for the best for you on your journey's ahead -- in fixed yield and beyond."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8775,11 +8832,14 @@
 		"external_url": "https://gratitude.kernel.community/c/64fc962e912d7e848c91dc99b75aabb53d93785028c0a8320b82dc6242d8444a",
 		"name": "Devin Walsh",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Devin - words can't express how thankful we are for you to have joined us for KERNEL. A person like you changes the gravity of the program. Thank you -- and wishing you all the best, always.",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Devin - words can't express how thankful we are for you to have joined us for KERNEL. A person like you changes the gravity of the program. Thank you -- and wishing you all the best, always."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -8914,11 +8974,14 @@
 		"external_url": "https://gratitude.kernel.community/c/ac9108c9a1b728e9fba3d600dd079584cff217317440ddebb892602cafeaa783",
 		"name": "David Hunt-Mateo",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "David -- it was a joy and a blessing to have you in KB2. You brought such great questions and it's no surprise you ended up in your dream role. Wishing the best for you and your family. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "David -- it was a joy and a blessing to have you in KB2. You brought such great questions and it's no surprise you ended up in your dream role. Wishing the best for you and your family. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -9339,11 +9402,14 @@
 		"external_url": "https://gratitude.kernel.community/c/d35e6ac9f5d3d7010e0f0ea2ff287b25bedfc360e70c2bad791885a6aac7a62c",
 		"name": "Simon Cousaert",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Simon -- what a journey KB2 was! Grateful to have had you in the program and so excited for what's next for you. Always love from your friends at KERNEL. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Simon -- what a journey KB2 was! Grateful to have had you in the program and so excited for what's next for you. Always love from your friends at KERNEL. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -9367,11 +9433,14 @@
 		"external_url": "https://gratitude.kernel.community/c/7b36e45dc24e5bcf952947e5d1c707d9679fe35202dc46ae092d808b0dbb4678",
 		"name": "Sam Casey",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Sam -- your thoughtfulness, your note sharing, and your keen explorations made KB2 better for everyone around you. Grateful to you for joining us and excited for our shared Web 3 adventures to come! ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Sam -- your thoughtfulness, your note sharing, and your keen explorations made KB2 better for everyone around you. Grateful to you for joining us and excited for our shared Web 3 adventures to come! "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -9395,11 +9464,14 @@
 		"external_url": "https://gratitude.kernel.community/c/8795e2f25619c1ad71552de7901f43c4eb4e3f9e18f6119d1c5fbbb177f62c43",
 		"name": "Ethan Chiasson",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Ethan -- you made us excited about gaming, prediction markets, and ultimately -- exploring ideas. Your energy made KB2 tangibly better. Thank you. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Ethan -- you made us excited about gaming, prediction markets, and ultimately -- exploring ideas. Your energy made KB2 tangibly better. Thank you. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -9633,11 +9705,14 @@
 		"external_url": "https://gratitude.kernel.community/c/54dcad45f8e547b9ec1c55c1e0dd7d5931836ff3e7807c970bcc38b116e51671",
 		"name": "Tony Snark",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "To our beloved anon friend, we'll always be rooting for you -- whether in on-chain acquisitions or off-chain explorations in Italy, grateful to know you and excited for what you do next.",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "To our beloved anon friend, we'll always be rooting for you -- whether in on-chain acquisitions or off-chain explorations in Italy, grateful to know you and excited for what you do next."
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -9741,12 +9816,12 @@
 		"image": "https://api.kernel.community/18665492241403950.png",
 		"external_url": "https://gratitude.kernel.community/c/42502a929b502effd244deb56b9e57d67efc3ba06e3e8b5c6e794bebb7c48dec",
 		"name": "Anna Alexa",
-		"award": "",
-		"testimonial": "",
+		"award": "Meaning Maker",
+		"testimonial": "For you, Anna, there is only this endless love.",
 		"gratitude": {},
 		"attributes": [
-			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{ "trait_type": "award", "value": "Meaning Maker" },
+			{ "trait_type": "testimonial", "value": "For you, Anna, there is only this endless love." },
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -9934,11 +10009,14 @@
 		"external_url": "https://gratitude.kernel.community/c/ee488009e0895838cc2fbb07700d18caa4c969556d8c9540e631928a4381bb02",
 		"name": "Reuben Bramanathan",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Reuben - your contributions go past legal, token, or fairlaunch advice. You are simply fun to work alongside. Grateful and excited for whats to come. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Reuben - your contributions go past legal, token, or fairlaunch advice. You are simply fun to work alongside. Grateful and excited for whats to come. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -10012,11 +10090,14 @@
 		"external_url": "https://gratitude.kernel.community/c/a1d71e01a9d586060600c975f70104e6e9c53522583718ffe8e334537f23048d",
 		"name": "Daniel Knobelsdorf",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Daniel -- thank you for exploring KERNEL alongside us in KB2. It wouldn't have been the same without your unique perspective. Wishing you all the best. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Daniel -- thank you for exploring KERNEL alongside us in KB2. It wouldn't have been the same without your unique perspective. Wishing you all the best. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -10359,11 +10440,14 @@
 		"external_url": "https://gratitude.kernel.community/c/1d8357b92d1a6dbb5c5821fbb2a4d720d36928e4d3c60be7629e49a05eb20009",
 		"name": "Corey Petty",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Corey -- you made the security track go, and that led to us thinking about other tracks. It changed KERNEL for the better, and for that we are thankful! ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Corey -- you made the security track go, and that led to us thinking about other tracks. It changed KERNEL for the better, and for that we are thankful! "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -10415,11 +10499,14 @@
 		"external_url": "https://gratitude.kernel.community/c/89144d2258fa856e35e984a52c04d1b3c32d89b02c25ecf8fb6569b3849e5d9e",
 		"name": "Ciaran Moore",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "Ciaran -- thank you for bringing your unique spirit and perspective to KERNEL. We are forever grateful. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "Ciaran -- thank you for bringing your unique spirit and perspective to KERNEL. We are forever grateful. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},
@@ -10605,11 +10692,14 @@
 		"external_url": "https://gratitude.kernel.community/c/0e85e2c1d75993769fd419cbaebc0951b728dff0801025004e93d22455be45fa",
 		"name": "Dominik (redsolver)",
 		"award": "",
-		"testimonial": "",
+		"testimonial": "redsolver -- you may be anon but your voice will always be distinct. Grateful for you for joining us in KB2 and excited for your Skyfeed future. ",
 		"gratitude": {},
 		"attributes": [
 			{ "trait_type": "award", "value": "" },
-			{ "trait_type": "testimonial", "value": "" },
+			{
+				"trait_type": "testimonial",
+				"value": "redsolver -- you may be anon but your voice will always be distinct. Grateful for you for joining us in KB2 and excited for your Skyfeed future. "
+			},
 			{ "display_type": "number", "trait_type": "Gratitude Count", "value": 0 }
 		]
 	},

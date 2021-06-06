@@ -25,10 +25,10 @@ async function generateMetadata () {
         received: messages[u.user_id],
         count: messages[u.user_id].length
       }
-      if (awards[u.user_id]) {
-        award = awards[u.user_id].award
-        testimonial = awards[u.user_id].notes
-      }
+    }
+    if (awards[u.user_id]) {
+      award = awards[u.user_id].award
+      testimonial = awards[u.user_id].notes
     }
     metadata[u.tokenId] = {
       tokenId: u.tokenId,
