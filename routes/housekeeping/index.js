@@ -45,9 +45,9 @@ routes.post("/updateMentorOnNotion", async(req,res) => {
         database_id: helpers.MentorsDBNotion
       },
       properties: {
-        'Headshot URL': {
-          "url": data.headshot[0] ? data.headshot[0] : ""
-        },
+        // 'Headshot URL': {
+        //   "url": data.headshot[0] ? data.headshot[0] : ""
+        // },
         'Name': {
           "title": [
             {
