@@ -1,0 +1,1 @@
+fetches fellow adventure from 'Kindle' table in KB3 database
