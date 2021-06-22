@@ -32,13 +32,14 @@ routes.post("/updateMentorOnNotion", async(req,res) => {
 
   for (let i = 0; i < multiSelects.length; i++) {
     for (s of multiSelects[i]) {
+      console.log ("pushing", s)
       multiSelectsNotion[i].push({
         "name": s.subtring(0,100)
       })
     }
   }
   console.log(multiSelectsNotion)
-  
+
   let response
   try {
     response = await notion.pages.create({
