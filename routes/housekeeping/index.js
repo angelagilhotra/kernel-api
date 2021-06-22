@@ -37,7 +37,8 @@ routes.post("/updateMentorOnNotion", async(req,res) => {
       })
     }
   }
-
+  console.log(multiSelectsNotion)
+  
   let response
   try {
     response = await notion.pages.create({
