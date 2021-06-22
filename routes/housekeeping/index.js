@@ -33,7 +33,7 @@ routes.post("/updateMentorOnNotion", async(req,res) => {
   for (let i = 0; i < multiSelects.length; i++) {
     for (s of multiSelects[i]) {
       multiSelectsNotion[i].push({
-        "name": s
+        "name": s.subtring(0,100)
       })
     }
   }
