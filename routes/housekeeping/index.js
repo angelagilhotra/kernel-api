@@ -34,7 +34,7 @@ routes.post("/updateMentorOnNotion", async(req,res) => {
     for (s of multiSelects[i]) {
       console.log ("pushing", s)
       multiSelectsNotion[i].push({
-        "name": s.subtring(0,100)
+        "name": s.substring(0,100)
       })
     }
   }
