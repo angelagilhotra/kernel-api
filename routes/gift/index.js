@@ -66,22 +66,28 @@ routes.get('/user/:userId', async(req,res) => {
 // returns user's all details & token metadata
 routes.get('/hash/:hash', async (req, res, next) => {
   const { hash } = req.params
-
-  d = await hashToUserDetails[hash]
-  _p = (await tree).getProof(Buffer.from(hash, "hex"))
-  let proof = []
-  for (p of _p) {
-    proof.push('0x'+ p.toString("hex"))
+  if (hashToUserDetails[hash]) {
+    d = await hashToUserDetails[hash]
+    _p = (await tree).getProof(Buffer.from(hash, "hex"))
+    let proof = []
+    for (p of _p) {
+      proof.push('0x'+ p.toString("hex"))
+    }
+    
+    res.send ({
+      ok: true, data: {
+        details: d, 
+        tokenId: d["token"], 
+        metadata: metadata[d["token"]],
+        proof
+      }
+    })
+  } else {
+    res.send ({
+      ok: false
+    })
   }
   
-  res.send ({
-    ok: true, data: {
-      details: d, 
-      tokenId: d["token"], 
-      metadata: metadata[d["token"]],
-      proof
-    }
-  })
 })
 
 routes.get('/tokens', async(req,res) => {
