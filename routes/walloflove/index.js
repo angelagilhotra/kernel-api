@@ -12,7 +12,7 @@ routes.get('/', (req, res) => {
   res.status(200).json({ message: 'Connected to wall of love!' });
 });
 
-routes.get("/new",
+routes.post("/new",
   body('data').isArray(),
   async (req, res) => {
     console.log (req.body)
