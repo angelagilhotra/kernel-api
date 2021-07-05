@@ -7,6 +7,7 @@ const offers = require('./slack/offers')
 const officeHours = require("./officeHours")
 const engagement = require("./slack/engagement")
 const housekeeping = require("./housekeeping")
+const wol = require("./walloflove")
 
 routes.use('/gift', gift)
 routes.use('/juntos', juntos)
@@ -18,6 +19,8 @@ routes.use('/slack/officeHours', officeHoursWorkflow)
 routes.use('/slack/engagement', engagement)
 
 routes.use('/housekeeping', housekeeping)
+
+routes.use('/wol', wol)
 
 routes.get('/', (req, res) => {
   res.status(200).json({ message: 'Connected!' })
