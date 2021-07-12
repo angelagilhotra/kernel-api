@@ -51,8 +51,8 @@ routes.post('/submit', async(req,res) => {
 	let start = data.event_details.start
 	let end = data.event_details.end
 	let location = data.event_details.location ? data.event_details.location : ""
-	description = description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ")
-  title = title.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g,"")
+	// description = description.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g," ")
+  // title = title.replace(/[&\/\\#,+()$~%.'":*?<>@^{}]/g,"")
 	let r;
 	try {
 		r = await base('Juntos').create([
