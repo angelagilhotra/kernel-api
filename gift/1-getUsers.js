@@ -12,6 +12,7 @@ const fs = require('fs');
 const token = process.env.SLACK_BOT_TOKEN;
 const web = new WebClient(token);
 const { MerkleTree } = require('./helpers/merkle');
+const blockData = require('./data/blocks.json');
 
 const PATH = {
   users: `${__dirname}/data/users.json`,
@@ -69,13 +70,22 @@ async function gift() {
   const allUsers = {
     users: _users,
     userIdToNames: {},
+		emailToUserDetails: {},
+		emails: [],
     hashToUserDetails: {},
     hashes: [],
   };
   _users.forEach((u) => {
     allUsers.userIdToNames[u.user_id] = u.name;
+		allUsers.emails.push(u.email);
+		let block = 'unknown', found = false;
+		found = blockData.find(b => b["emails"] == u["email"])
+		if (found) block = found["Block"]
+		allUsers.emailToUserDetails[u.email] = {
+			name: u.name, block
+		}
     allUsers.hashToUserDetails[u.hash] = {
-      name: u.name, token: u.tokenId, userId: u.user_id,
+      name: u.name, token: u.tokenId, userId: u.user_id, email: u.email
     };
     allUsers.hashes.push(u.hash);
   });

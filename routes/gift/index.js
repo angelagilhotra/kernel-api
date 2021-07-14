@@ -6,6 +6,8 @@ const {
   users, 
   userIdToNames, 
   hashToUserDetails, 
+	emails, 
+	emailToUserDetails,
   hashes } = require('../../gift/data/users.json')
 const metadata = require('../../gift/data/metadata.json');
 const fs = require('fs')
@@ -51,7 +53,7 @@ routes.post('/upload', async(req, res) => {
 })
 
 // get user details from user hash
-routes.get('/user/:userId', async(req,res) => {
+routes.get('/user/id/:userId', async(req,res) => {
   const { userId } = req.params
   let n = userIdToNames[userId]
   let h = crypto.createHash("sha256").update(userId).digest("hex")
@@ -100,6 +102,44 @@ routes.get('/tokens', async(req,res) => {
     tokens: metadata,
     count
   })
+})
+
+routes.get('/root', async(req,res) => {
+	let root = (await tree).getRoot()
+	root = root.toString("hex")
+	res.send({
+		ok: true,
+		root
+	})
+})
+
+routes.get('/user/email/:email', async(req,res) => {
+	const { email } = req.params;
+	let found = emails.find(e => e == email)
+	if (found) {
+		res.send({
+			ok: true,
+			data: emailToUserDetails[email]
+		})
+	} else {
+		res.send({
+			ok: false
+		})
+	}
+})
+routes.post('/user/email', async(req,res) => {
+	const { email } = req.body;
+	let found = emails.find(e => e == email)
+	if (found) {
+		res.send({
+			ok: true,
+			data: emailToUserDetails[email]
+		})
+	} else {
+		res.send({
+			ok: false
+		})
+	}
 })
 
 // returns token metadata
