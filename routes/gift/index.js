@@ -122,7 +122,7 @@ routes.get('/user/email/:email', async(req,res) => {
 			data: emailToUserDetails[email]
 		})
 	} else {
-		res.send({
+		res.status(404).send({
 			ok: false
 		})
 	}
@@ -136,7 +136,7 @@ routes.post('/user/email', async(req,res) => {
 			data: emailToUserDetails[email]
 		})
 	} else {
-		res.send({
+		res.status(404).send({
 			ok: false
 		})
 	}
