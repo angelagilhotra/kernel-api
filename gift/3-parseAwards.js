@@ -1,5 +1,6 @@
 const fs = require('fs')
 const neatCsv = require('neat-csv');
+const files = ['block_1_2_award_notes.csv', 'block_3_award_notes.csv']
 
 async function store(json, path) {
   try {
@@ -10,20 +11,18 @@ async function store(json, path) {
 }
 
 async function main () {
-  let data = await fs.readFileSync(__dirname + '/data/award_notes.csv')
-  let parsed = await neatCsv(data)
-  
   let res = {}
-  requiredJson = parsed.map((obj) => {
-    if (!res[obj.user_id]) res[obj.user_id] = {}
-    res[obj.user_id] = {
-      notes: obj.notes,
-      award: obj.award
-    }
-  })
-  
+  for (fileName of files) {
+    let data = await fs.readFileSync(__dirname + '/data/' + fileName)
+    let parsed = await neatCsv(data)
+
+    parsed.map((obj) => {
+      if (!res[obj.user_id]) res[obj.user_id] = {}
+      res[obj.user_id] = {notes: obj.notes, award: obj.award}
+    })
+
+  }
   store(res, __dirname + '/data/awards.json')
-  
 }
 
 main ()
