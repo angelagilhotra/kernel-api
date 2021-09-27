@@ -120,7 +120,7 @@ routes.post('/new', async (req, res) => {
 	let r;
 	if (postOnSlack) {
 		try {
-			r = await web.chat.postMessage({channel: "#kernel-juntos", "blocks": message_blocks})
+			r = await web.chat.postMessage({channel: "#kernel-conversations", "blocks": message_blocks})
 		} catch (err) {
 			console.log (err)
 		}
