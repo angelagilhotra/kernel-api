@@ -81,8 +81,8 @@ async function gift() {
 		let block = 'unknown', found = false;
 		found = blockData.find(b => b["emails"] == u["email"])
 		if (found) block = found["Block"]
-		allUsers.emailToUserDetails[u.email] = {
-			name: u.name, block
+		allUsers.emailToUserDetails[u.email.toLowerCase()] = {
+			name: u.name, block, hash: u.hash, first_name: u.name.split(" ")[0]
 		}
     allUsers.hashToUserDetails[u.hash] = {
       name: u.name, token: u.tokenId, userId: u.user_id, email: u.email
