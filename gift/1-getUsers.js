@@ -85,7 +85,7 @@ async function gift() {
 			name: u.name, block, hash: u.hash, first_name: u.name.split(" ")[0]
 		}
     allUsers.hashToUserDetails[u.hash] = {
-      name: u.name, token: u.tokenId, userId: u.user_id, email: u.email
+      name: u.name, token: u.tokenId, userId: u.user_id
     };
     allUsers.hashes.push(u.hash);
   });

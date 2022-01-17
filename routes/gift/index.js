@@ -2,11 +2,11 @@ const routes = require('express').Router();
 const crypto = require('crypto')
 const base64Img = require('base64-img')
 const { tree } = require('../../gift/scripts/tree')
-const { 
-  users, 
-  userIdToNames, 
-  hashToUserDetails, 
-	emails, 
+const {
+  users,
+  userIdToNames,
+  hashToUserDetails,
+	emails,
 	emailToUserDetails,
   hashes } = require('../../gift/data/users.json')
 const metadata = require('../../gift/data/metadata.json');
@@ -37,7 +37,7 @@ routes.post('/upload', async(req, res) => {
   }
   else {
     base64Img.img(
-      image, 
+      image,
       dir,
       token, function (err, filepath) {
         if (err) {
@@ -75,11 +75,10 @@ routes.get('/hash/:hash', async (req, res, next) => {
     for (p of _p) {
       proof.push('0x'+ p.toString("hex"))
     }
-    
     res.send ({
       ok: true, data: {
-        details: d, 
-        tokenId: d["token"], 
+        details: d,
+        tokenId: d["token"],
         metadata: metadata[d["token"]],
         proof
       }
@@ -89,7 +88,6 @@ routes.get('/hash/:hash', async (req, res, next) => {
       ok: false
     })
   }
-  
 })
 
 routes.get('/tokens', async(req,res) => {
