@@ -25,4 +25,6 @@ jobs:
           script: |
             cd test/kernel-api &&
             git pull origin main &&
+            npm i &&
+            pm2 restart 0 &&
             echo 'Pulling latest changes completed' 
