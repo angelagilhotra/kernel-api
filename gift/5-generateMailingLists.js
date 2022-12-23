@@ -2,7 +2,7 @@ const fs = require('fs');
 const neatCsv = require('neat-csv');
 const {emailToUserDetails} = require('./data/users.json');
 const blocks = [
-  {"block": "5", "file": "block_5_award_notes.csv"}
+  {"block": "7", "file": "block_7_award_notes.csv"}
 ]
 
 // for block in blocks

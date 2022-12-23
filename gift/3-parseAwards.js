@@ -1,6 +1,6 @@
 const fs = require('fs')
 const neatCsv = require('neat-csv');
-const files = ['block_1_2_award_notes.csv', 'block_3_award_notes.csv', 'block_4_award_notes.csv', 'block_5_award_notes.csv']
+const files = ['block_1_2_award_notes.csv', 'block_3_award_notes.csv', 'block_4_award_notes.csv', 'block_5_award_notes.csv', 'block_7_award_notes.csv']
 
 async function store(json, path) {
   try {
