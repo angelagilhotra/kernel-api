@@ -2,12 +2,12 @@ const fs = require('fs');
 const neatCsv = require('neat-csv');
 const {emailToUserDetails} = require('./data/users.json');
 const blocks = [
-  {"block": "4", "file": "block_4_award_notes.csv"}
+  {"block": "5", "file": "block_5_award_notes.csv"}
 ]
 
 // for block in blocks
 // fetch full name, hash from emailToUserDetails in users
-// create mailing.json -> 
+// create mailing.json ->
 /**
  *  {
  *    "block": "4",
@@ -17,7 +17,7 @@ const blocks = [
  *        "hash": ...,
  *        "full name": ...,
  *        "first name": ...
- *      }   
+ *      }
  *     ]
  *  }
  */
@@ -38,7 +38,11 @@ const blocks = [
     p.map((o) => {
       const {first_name, name, hash} = emailToUserDetails[o['email'].toLowerCase()]
       r.push({
-        first_name, name, hash, email: o['email']
+        first_name,
+        name,
+        hash,
+        email: o['email'],
+        block: b.block
       })
     })
   }
