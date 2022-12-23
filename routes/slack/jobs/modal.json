@@ -1,0 +1,112 @@
+{
+	"view": {
+		"type": "workflow_step",
+		"blocks": [
+			{
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "title",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Job Title"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Title of the Job"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "company_name",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Company Name"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Company Name"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "job_url",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Job URL"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Job posting URL"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "contact_person_name",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Contact Person Name"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Contact Person Name"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "contact_person_email",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Contact Person Email"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Contact Person Email"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "job_location",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Job Location"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Job Location"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "job_type",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "Job Type"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "Job Type"
+        }
+      }
+    ]
+	}
+}

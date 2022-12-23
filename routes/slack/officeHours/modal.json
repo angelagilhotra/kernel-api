@@ -1,0 +1,97 @@
+{
+	"view": {
+		"type": "workflow_step",
+		"blocks": [
+			{
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "adventure",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "adventure"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "adventure"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "who_to_connect_with",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "who_to_connect_with"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "who_to_connect_with"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "tell_us_more",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "tell_us_more"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "tell_us_more"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "mentor_name",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "mentor_name"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "mentor_name"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "submitter_name",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "submitter_name"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "submitter_name"
+        }
+      },
+      {
+        "type": "input",
+        "element": {
+          "type": "plain_text_input",
+          "action_id": "submitter_email",
+          "placeholder": {
+            "type": "plain_text",
+            "text": "submitter_email"
+          }
+        },
+        "label": {
+          "type": "plain_text",
+          "text": "submitter_email"
+        }
+      }
+    ]
+	}
+}

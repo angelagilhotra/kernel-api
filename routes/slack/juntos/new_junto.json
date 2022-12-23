@@ -1,0 +1,40 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*<junto_proposer>* has proposed a new junto!"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*<junto_title>*\n<junto_description>"
+			}
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "Read more and RSVP",
+						"emoji": true
+					},
+					"value": "click_me_123",
+					"action_id": "actionId-0",
+          "url": "<rsvp_url>"
+				}
+			]
+		},
+    {
+			"type": "divider"
+		}
+	]
+}
