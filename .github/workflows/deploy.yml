@@ -28,14 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: DigitalOcean App Platform deployment
-        # You may pin to the exact commit or the version.
-        # uses: digitalocean/app_action@16c153041a30666f3c2b238231979ce17d2d30e8
-        uses: digitalocean/app_action@v1.1.4
+      - name: GitHub Action for DigitalOcean - doctl
+        uses: digitalocean/action-doctl@v2.3.0
         with:
-          # Name of the app. (The name of the app must be unique across all apps in the same account.)
-          app_name: Kernel API
-          # DigitalOcean Personal Access Token.(use https://docs.digitalocean.com/reference/api/create-personal-access-token/ for creating new token)
-          token: dop_v1_74cef22b9bebfdbdc7f80187cf05e8222b51d1cff45560369a790246f818cffb
+         token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
