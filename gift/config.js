@@ -9,7 +9,7 @@ module.exports = {
     frontend: "https://gratitude.kernel.community"
   },
   prod: {
-    server: "http://167.71.9.209",
+    server: "https://api-kernel.herokuapp.com/",
     frontend: "https://gratitude.kernel.community"
   }
 };
